@@ -76,7 +76,7 @@
 
 /obj/effect/mailbird/Initialize(mapload, mob/living/carbon/C)
 	. = ..()
-	caller = C
+	//caller = C
 	following = C
 	component = src.AddComponent(/datum/component/mailbird_movement, C)
 	var/delayRespond = rand(2,4) SECONDS
