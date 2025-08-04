@@ -1484,3 +1484,24 @@ GLOBAL_LIST_INIT(fuzzy_license, list(
 	saleprice = COINS_TO_CREDITS(900)
 	punchbonus = COINS_TO_CREDITS(150) // total of a lot
 	this_is_easier_than_actually_removing_them = TRUE
+
+// Keys for doors out in the wasteland, instead of cards
+
+/obj/item/card/id/key
+	name = "key"
+	desc = "An old sturdy key, probably to unlock something important."
+	icon = 'icons/fallout/objects/keys.dmi'
+	icon_state = "empty_key"
+	assignment = null
+	uses_overlays = FALSE
+	access = list(0)
+
+// Wasteland ID cards, stuff to open certain buildings
+
+/obj/item/card/id/dogtag/wasteland
+	name = "ID card"
+	desc = "An old faded ID card with barely perceivable information still on it."
+	icon_state = "doctor"
+	inhand_icon_state = "card-doctor"
+	assignment = null
+	access = list(0)

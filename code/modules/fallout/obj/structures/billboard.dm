@@ -71,3 +71,8 @@
 	name = "Klamat sign"
 	desc =  "A ruined sign that says \"Klamat \"."
 	icon_state = "klamat"
+
+/obj/structure/billboard/rusttown
+	name = "Rusttown"
+	desc =  "An old ruined sign, with a spraypainted \"Rusttown\" on it."
+	icon_state = "klamat" // needs sprited

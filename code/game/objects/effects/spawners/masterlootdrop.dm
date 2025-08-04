@@ -4,7 +4,7 @@
 /////////////////////
 ///master spawners///
 /////////////////////
-/obj/effect/spawner/lootdrop/f13/trash
+ 
 	name = "trash loot, found everywhere BUT the trash"
 	delay_spawn = FALSE
 	loot = list(
