@@ -40,13 +40,14 @@ if(hook_vore(proc,args)) return
 
 The hooks you're calling should return nonzero values on success.
 */
+
 /proc/hook_vore(hook, list/args=null)
 	try
 		var/hook_path = text2path("/hook/[hook]")
 		if(!hook_path)
 			CRASH("hook_vore: Invalid hook '/hook/[hook]' called.")
 
-		//var/caller = new hook_path
+		var/caller = new hook_path
 		var/status = 1
 		for(var/P in typesof("[hook_path]/proc"))
 			if(!call(caller, P)(arglist(args)))
@@ -58,3 +59,4 @@ The hooks you're calling should return nonzero values on success.
 	catch(var/exception/e)
 		stack_trace("hook_vore itself failed or runtimed. Exception below.")
 		stack_trace("hook_vore catch: [e] on [e.file]:[e.line]")
+

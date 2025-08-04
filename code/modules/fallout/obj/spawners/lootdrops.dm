@@ -138,7 +138,7 @@
 	/obj/item/weapon/reagent_containers/food/snacks/grown/glow = 0.1)
 */
 /obj/effect/spawner/lootdrop/trash
-/*	color = "#FF0000"
+	color = "#FF0000"
 	loot = list(
 	/obj/item/trash/f13/bubblegum = 1,
 	/obj/item/trash/f13/bubblegum_large = 1,
@@ -161,7 +161,7 @@
 	/obj/item/trash/f13/mre = 1,
 	/obj/item/trash/f13/rotten = 1,
 	/obj/item/clothing/head/f13/headscarf = 1)
-*/
+
 /obj/effect/spawner/lootdrop/clothing_low
 /*	color = "#FF0000"
 	loot = list(
