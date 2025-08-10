@@ -226,3 +226,6 @@
 
 /obj/machinery/door/unpowered/secure_steeldoor/firestation
 	req_access_txt = "711"
+
+/obj/machinery/door/unpowered/secure_steeldoor/gunstore
+	req_access_txt = "737"
