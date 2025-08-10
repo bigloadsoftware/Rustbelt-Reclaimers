@@ -698,3 +698,14 @@
 
 /obj/machinery/door/airlock/glass_large/narsie_act()
 	return
+
+// Rustbelt
+
+/obj/machinery/door/airlock/medical/hospital
+	req_access_txt = "811"
+
+/obj/machinery/door/airlock/centcom/hospital
+	req_access_txt = "811"
+
+/obj/machinery/door/airlock/research/hospital
+	req_access_txt = "811"

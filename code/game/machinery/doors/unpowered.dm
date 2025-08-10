@@ -218,3 +218,11 @@
 		if("closing")
 			playsound(src,'sound/machines/door_close.ogg',40,1)
 			flick("secure_bos_closing", src)
+
+// Rustbelt
+
+/obj/machinery/door/unpowered/secure_steeldoor/police
+	req_access_txt = "911"
+
+/obj/machinery/door/unpowered/secure_steeldoor/firestation
+	req_access_txt = "711"

@@ -362,3 +362,37 @@
 	icon = 'icons/obj/tomb.dmi'
 	icon_state = "ladystatue-right"
 	anchored = TRUE
+
+// Robots
+
+/obj/structure/statue/robots
+	name = "robot display"
+	desc = "Some statue or display of a robot."
+	icon = 'icons/fallout/mobs/robots/wasterobots.dmi'
+	anchored = TRUE
+
+/obj/structure/statue/robots/assaultron
+	name = "assaultron display"
+	desc = "A display model of the Assaultron, looks like it'll come alive to kill you at any moment!"
+	icon_state = "assaultron"
+
+/obj/structure/statue/robots/handy
+	name = "mr. handy display"
+	desc = "A display model of Mr. Handy, ready to do its handy job!"
+	icon_state = "handy"
+
+/obj/structure/statue/robots/protectron
+	name = "protectron display"
+	desc = "A display model of the Protectron, standing there menacingly!"
+	icon = 'icons/fallout/mobs/robots/protectrons.dmi'
+	icon_state = "protectron"
+
+/obj/structure/statue/robots/robobrain
+	name = "robobrain display"
+	desc = "A display model of the Robobrain, with its claws pointed at you!"
+	icon_state = "robobrain"
+
+/obj/structure/statue/robots/securitron
+	name = "robobrain display"
+	desc = "A display model of the Securitron, ready to protect and serve!"
+	icon_state = "securitron"
