@@ -181,7 +181,6 @@ GLOBAL_LIST_INIT(tree_plant_list, list(
 	// /obj/structure/flora/tree/jungle = 15,
 	// /obj/structure/flora/tree/jungle/small = 15,
 	// /obj/structure/flora/tree/med_pine = 7,
-	// /obj/structure/flora/tree/med_pine_dead = 7,
 	/obj/structure/flora/tree_stump = 15,
 	/obj/structure/flora/tree/african_acacia_dead = 2,
 	// /obj/structure/flora/tree/cypress_tree = 5,
@@ -201,6 +200,7 @@ GLOBAL_LIST_INIT(tree_plant_list, list(
 	/obj/structure/flora/tree/joshua = 2,
 	/obj/structure/flora/tree/cactus_alt = 2,
 	/obj/structure/flora/burnedlog = 2,
+	/obj/structure/flora/tree/med_pine_dead = 2,
 	/obj/structure/flora/tree/wasteland = 2
 	))
 
@@ -462,19 +462,82 @@ GLOBAL_LIST_INIT(dust_spawn_list, list(
 	))
 
 GLOBAL_LIST_INIT(trash_spawn_list, list(
-	/obj/effect/spawner/lootdrop/trash = 5,
+	/obj/structure/flora/twig = 2,
+	/obj/structure/flora/twig2 = 2,
+	/obj/structure/flora/twig3 = 2,
+	/obj/structure/flora/twig4 = 2,
+	/*/obj/structure/flora/rock/jungle = 1,
+	/obj/structure/flora/junglebush = 1,
+	/obj/structure/flora/junglebush/b = 1,
+	/obj/structure/flora/junglebush/c = 1,*/
+	/obj/structure/flora/grass/wasteland = 4,
+	/obj/structure/flora/grass/jungle/b = 2,
+	/obj/structure/flora/grass/jungle = 2,
+	/obj/structure/flora/burnedbush1 = 2,
+	/obj/structure/flora/burnedbush3 = 2,
+	/obj/structure/flora/burnedbush4 = 2,
+	/obj/structure/flora/burnedbush5 = 2,
+	/obj/structure/flora/burnedlog = 1,
+	/*
+	/obj/structure/flora/grass/coyote/eight = 1,
+	/obj/structure/flora/grass/coyote/eighteen = 1,
+	/obj/structure/flora/grass/coyote/eleven = 1,
+	/obj/structure/flora/grass/coyote/five = 1,
+	/obj/structure/flora/grass/coyote/fiveteen = 1,
+	/obj/structure/flora/grass/coyote/four = 1,
+	/obj/structure/flora/grass/coyote/fourteen = 1,
+	/obj/structure/flora/grass/coyote/nine = 1,
+	/obj/structure/flora/grass/coyote/nineteen = 1,
+	/obj/structure/flora/grass/coyote/one = 1,
+	/obj/structure/flora/grass/coyote/seven = 1,
+	/obj/structure/flora/grass/coyote/seventeen = 1,
+	/obj/structure/flora/grass/coyote/six = 1,
+	/obj/structure/flora/grass/coyote/sixteen = 1,
+	/obj/structure/flora/grass/coyote/ten = 1,
+	/obj/structure/flora/grass/coyote/thirteen = 1,
+	*/
+	/obj/structure/flora/grass/coyote/thirty = 1,
+	/*
+	/obj/structure/flora/grass/coyote/three = 1,
+	/obj/structure/flora/grass/coyote/twelve = 1,
+	/obj/structure/flora/grass/coyote/twenty = 1,
+	/obj/structure/flora/grass/coyote/twentyeight = 1,
+	/obj/structure/flora/grass/coyote/twentyfive = 1,
+	/obj/structure/flora/grass/coyote/twentyfive = 1,
+	*/
+	/obj/structure/flora/grass/coyote/twentyfour = 1,
+	/*
+	/obj/structure/flora/grass/coyote/twentynine = 1,
+	/obj/structure/flora/grass/coyote/twentyone = 1,
+	/obj/structure/flora/grass/coyote/twentyseven = 1,
+	/obj/structure/flora/grass/coyote/twentysix = 1,
+	/obj/structure/flora/grass/coyote/twentythree = 1,
+	/obj/structure/flora/grass/coyote/twentytwo = 1,
+	/obj/structure/flora/grass/coyote/two = 1,
+	*/
 	))
 
 GLOBAL_LIST_INIT(salvage_spawn_list, list(
-	/obj/effect/decal/cleanable/dirt/dust = 110,
-	// /obj/structure/car = 5,
-	// /obj/structure/car/rubbish1 = 10,
-	// /obj/structure/car/rubbish2 = 10,
-	// /obj/structure/car/rubbish3 = 10,
-	// /obj/structure/car/rubbish4 = 10,
-	/obj/effect/decal/cleanable/oil/slippery = 10,
-	/obj/item/mine/emp = 1,
-	/obj/item/mine/shrapnel = 1,
+	/obj/item/trash/f13/bubblegum = 1,
+	/obj/item/trash/f13/bubblegum_large = 1,
+	/obj/item/trash/f13/cram = 1,
+	/obj/item/trash/f13/cram_large = 1,
+	/obj/item/trash/f13/yumyum = 1,
+	/obj/item/trash/f13/fancylads = 1,
+	/obj/item/trash/f13/sugarbombs = 1,
+	/obj/item/trash/f13/crisps = 1,
+	/obj/item/trash/f13/steak = 1,
+	/obj/item/trash/f13/specialapples = 1,
+	/obj/item/trash/f13/dandyapples = 1,
+	/obj/item/trash/f13/blamco_large = 1,
+	/obj/item/trash/f13/blamco = 1,
+	/obj/item/trash/f13/mechanist = 1,
+	/obj/item/trash/f13/instamash = 1,
+	/obj/item/trash/f13/porknbeans = 1,
+	/obj/item/trash/f13/borscht = 1,
+	/obj/item/trash/f13/dog = 1,
+	/obj/item/trash/f13/mre = 1,
+	/obj/effect/decal/cleanable/oil = 1,
 	))
 
 GLOBAL_LIST_INIT(nest_spawn_list, list(

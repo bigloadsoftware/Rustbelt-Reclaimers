@@ -44,6 +44,8 @@
 	footstep = FOOTSTEP_ROAD
 	icon_state = "outermiddle"
 	broken_states = list("horizontaloutermain2","verticaloutermain2")
+	spawnSparse = TRUE
+	greeble = OUTSIDE_SPARSE_DISTRIBUTION
 
 /turf/open/floor/plating/f13/outside/road/harsh
 	icon = 'icons/fallout/turfs/f13roadharsh.dmi'

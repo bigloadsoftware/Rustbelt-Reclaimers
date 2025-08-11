@@ -7,4 +7,5 @@
 
 #define IS_OPAQUE_TURF(turf) (turf.directional_opacity == ALL_CARDINALS)
 #define OUTSIDE_JUNK_DISTRIBUTION list("nest" = 1, "salvage" = 2, "trash" = 2, "nothing" = 95)
+#define OUTSIDE_SPARSE_DISTRIBUTION list("trash" = 10, "salvage" = 5, "nothing" = 85)
 

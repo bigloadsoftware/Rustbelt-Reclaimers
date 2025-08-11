@@ -13,6 +13,8 @@
 	var/thingtype
 	if(spawnPlants && prob(RAND_PLANT_CHANCE))
 		thingtype = "plant"
+	else if(spawnSparse && prob(RAND_PLANT_CHANCE))
+		thingtype = list("trash","salvage")
 	else if(spawnHiddenStashes && prob(HIDDEN_STASH_CHANCE))
 		thingtype = "stash"
 	else if(greeble)
@@ -32,8 +34,8 @@
 		if("plant")
 			thingtype = pickweight(GLOB.plant_type_weighted)
 			switch(thingtype)
-//				if("medicinal")
-//					randThing = pickweight(GLOB.medicinal_plant_list)
+				if("medicinal")
+					randThing = pickweight(GLOB.medicinal_plant_list)
 				if("tree")
 					randThing = pickweight(GLOB.tree_plant_list)
 				if("grass")
@@ -72,12 +74,13 @@
 
 /turf/open/
 	var/spawnPlants = FALSE
+	var/spawnSparse = FALSE
 	var/spawnHiddenStashes = FALSE
 	/// Type of random stuff to spawn on a turf. Supports weighted lists.
 	var/greeble
 
 /turf/open/Initialize(mapload)
-	if(mapload && !is_reserved_level(z) && (spawnPlants || greeble || spawnHiddenStashes))
+	if(mapload && !is_reserved_level(z) && (spawnPlants || spawnSparse || greeble || spawnHiddenStashes))
 		spawnRandThing()
 	. = ..()
 

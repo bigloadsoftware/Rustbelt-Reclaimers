@@ -294,6 +294,9 @@
 
 /turf/open/floor/plasteel/floorgrime
 	icon_state = "floorgrime"
+	spawnSparse = TRUE
+	greeble = OUTSIDE_SPARSE_DISTRIBUTION
+
 /turf/open/floor/plasteel/airless/floorgrime
 	icon_state = "floorgrime"
 
