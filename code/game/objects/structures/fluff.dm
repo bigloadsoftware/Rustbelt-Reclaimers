@@ -127,6 +127,12 @@
 	icon = 'icons/obj/rails.dmi'
 	icon_state = "rails"
 
+/obj/structure/fluff/rails2
+	name = "rails"
+	desc = "Rails, for a Pre-Fall train. Don't stand on these."
+	icon = 'icons/obj/rails.dmi'
+	icon_state = "rails2"
+
 /obj/structure/fluff/paper
 	name = "dense lining of papers"
 	desc = "A lining of paper scattered across the bottom of a wall."

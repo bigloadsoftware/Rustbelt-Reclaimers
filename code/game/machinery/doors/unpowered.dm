@@ -229,3 +229,6 @@
 
 /obj/machinery/door/unpowered/secure_steeldoor/gunstore
 	req_access_txt = "737"
+
+/obj/machinery/door/unpowered/secure_bos/industry
+	req_access_txt = "692"

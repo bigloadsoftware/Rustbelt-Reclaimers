@@ -7,7 +7,7 @@
 	id = 333
 	bound_width = 96
 	ertblast = TRUE
-	autoclose = 20 SECONDS
+	autoclose = FALSE
 
 /obj/machinery/door/poddoor/gate/preopen
 	icon_state = "open"
