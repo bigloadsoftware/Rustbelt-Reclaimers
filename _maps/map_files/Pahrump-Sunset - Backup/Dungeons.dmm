@@ -6094,7 +6094,7 @@
 /turf/open/floor/f13/wood,
 /area/f13/vault)
 "eNs" = (
-/mob/living/simple_animal/hostile/aethergiest,
+/mob/living/simple_animal/hostile/deathclaw,
 /turf/open/indestructible/ground/inside/mountain,
 /area/f13/bunker)
 "eNB" = (

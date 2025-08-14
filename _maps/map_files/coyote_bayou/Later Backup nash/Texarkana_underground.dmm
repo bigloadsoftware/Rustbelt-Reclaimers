@@ -2518,7 +2518,7 @@
 	icon_state = "floor5-old"
 	},
 /obj/effect/decal/cleanable/dirt/dust,
-/mob/living/simple_animal/hostile/aethergiest/mother,
+/mob/living/simple_animal/hostile/deathclaw/mother,
 /turf/open/floor/plating/tunnel,
 /area/f13/tunnel)
 "bTV" = (
@@ -8431,7 +8431,7 @@
 /area/f13/caves)
 "glF" = (
 /obj/effect/decal/cleanable/dirt/dust,
-/obj/structure/nest/aethergiest/mother,
+/obj/structure/nest/deathclaw/mother,
 /turf/open/indestructible/ground/inside/subway{
 	name = "cave"
 	},
@@ -9830,7 +9830,7 @@
 /turf/open/indestructible/ground/inside/subway,
 /area/f13/building/sewers)
 "huD" = (
-/obj/structure/nest/aethergiest,
+/obj/structure/nest/deathclaw,
 /obj/effect/decal/cleanable/dirt/dust,
 /obj/effect/decal/cleanable/dirt/dust,
 /turf/open/indestructible/ground/inside/subway{
@@ -11940,7 +11940,7 @@
 /obj/effect/decal/cleanable/blood/old{
 	icon_state = "floor1-old"
 	},
-/mob/living/simple_animal/hostile/aethergiest/mother,
+/mob/living/simple_animal/hostile/deathclaw/mother,
 /turf/open/indestructible/ground/inside/mountain,
 /area/f13/tunnel)
 "jee" = (
@@ -14388,7 +14388,7 @@
 /turf/open/indestructible/ground/inside/subway,
 /area/f13/tunnel)
 "kVl" = (
-/mob/living/simple_animal/hostile/aethergiest/legendary{
+/mob/living/simple_animal/hostile/deathclaw/legendary{
 	name = "Serena Williams";
 	color = "EE3333";
 	melee_damage_upper = 65
@@ -14959,7 +14959,7 @@
 "lqi" = (
 /obj/effect/decal/cleanable/dirt/dust,
 /obj/effect/decal/cleanable/dirt/dust,
-/mob/living/simple_animal/hostile/aethergiest/mother,
+/mob/living/simple_animal/hostile/deathclaw/mother,
 /turf/open/floor/plating/tunnel,
 /area/f13/tunnel)
 "lqn" = (
@@ -15009,7 +15009,7 @@
 	},
 /area/f13/tunnel)
 "lrQ" = (
-/obj/structure/nest/aethergiest/mother{
+/obj/structure/nest/deathclaw/mother{
 	infinite = 1
 	},
 /turf/open/indestructible/ground/inside/mountain,
@@ -19091,7 +19091,7 @@
 	},
 /area/f13/tunnel)
 "oGg" = (
-/mob/living/simple_animal/hostile/aethergiest/legendary{
+/mob/living/simple_animal/hostile/deathclaw/legendary{
 	name = "Le Cuck"
 	},
 /turf/open/indestructible/ground/inside/subway,
@@ -20645,7 +20645,7 @@
 /area/f13/caves)
 "pTA" = (
 /obj/effect/decal/cleanable/dirt/dust,
-/obj/structure/nest/aethergiest,
+/obj/structure/nest/deathclaw,
 /turf/open/indestructible/ground/inside/subway{
 	name = "cave"
 	},
@@ -27103,7 +27103,7 @@
 /turf/open/floor/plasteel/f13/vault_floor/yellow,
 /area/f13/tunnel)
 "uGm" = (
-/obj/structure/nest/aethergiest,
+/obj/structure/nest/deathclaw,
 /turf/open/floor/f13{
 	icon_state = "yellowdirtyfull"
 	},
@@ -29503,7 +29503,7 @@
 	},
 /area/f13/building/sewers)
 "wrE" = (
-/obj/structure/nest/aethergiest,
+/obj/structure/nest/deathclaw,
 /turf/open/floor/f13{
 	icon_state = "greenrustyfull"
 	},
@@ -29927,7 +29927,7 @@
 /turf/open/indestructible/ground/inside/subway,
 /area/f13/caves)
 "wKt" = (
-/obj/structure/nest/aethergiest/mother,
+/obj/structure/nest/deathclaw/mother,
 /turf/open/indestructible/ground/inside/mountain,
 /area/f13/caves)
 "wKR" = (
@@ -31009,7 +31009,7 @@
 	},
 /area/f13/tunnel)
 "xAt" = (
-/mob/living/simple_animal/hostile/aethergiest/mother{
+/mob/living/simple_animal/hostile/deathclaw/mother{
 	obj_damage = 100
 	},
 /turf/open/floor/f13{
@@ -31144,7 +31144,7 @@
 /turf/open/indestructible/ground/outside/dirt/bigdirtturf,
 /area/f13/caves)
 "xFy" = (
-/obj/structure/nest/aethergiest,
+/obj/structure/nest/deathclaw,
 /turf/open/indestructible/ground/inside/mountain,
 /area/f13/caves)
 "xFJ" = (

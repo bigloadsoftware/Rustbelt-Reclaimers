@@ -306,28 +306,28 @@
 	color_src = MATRIXED
 	matrixed_sections = MATRIX_ALL
 
-/datum/sprite_accessory/tails/mam_tails/aethergiest
+/datum/sprite_accessory/tails/mam_tails/deathclaw
 	name = "Deathclaw"
 	icon_state = "deathclaw"
 	icon = 'icons/mob/mam/coyote/mam_tails.dmi'
 	color_src = MATRIXED
 	matrixed_sections = MATRIX_RED_GREEN
 
-/datum/sprite_accessory/tails_animated/mam_tails/aethergiest
+/datum/sprite_accessory/tails_animated/mam_tails/deathclaw
 	name = "Deathclaw"
 	icon_state = "deathclaw"
 	icon = 'icons/mob/mam/coyote/mam_tails.dmi'
 	color_src = MATRIXED
 	matrixed_sections = MATRIX_RED_GREEN
 
-/datum/sprite_accessory/tails/human/aethergiest
+/datum/sprite_accessory/tails/human/deathclaw
 	name = "Deathclaw"
 	icon_state = "deathclaw"
 	icon = 'icons/mob/mam/coyote/mam_tails.dmi'
 	color_src = MATRIXED
 	matrixed_sections = MATRIX_RED_GREEN
 
-/datum/sprite_accessory/tails_animated/human/aethergiest
+/datum/sprite_accessory/tails_animated/human/deathclaw
 	name = "Deathclaw"
 	icon_state = "deathclaw"
 	icon = 'icons/mob/mam/coyote/mam_tails.dmi'

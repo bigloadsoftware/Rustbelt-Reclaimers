@@ -50933,7 +50933,7 @@
 /obj/structure/closet/cabinet/anchored{
 	pixel_y = 10
 	},
-/obj/item/twohanded/spear/bonespear/aethergiest,
+/obj/item/twohanded/spear/bonespear/deathclaw,
 /obj/structure/decoration/rag{
 	layer = 4.3;
 	pixel_y = 32

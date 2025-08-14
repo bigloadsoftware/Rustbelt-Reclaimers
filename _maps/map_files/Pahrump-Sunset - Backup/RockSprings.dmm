@@ -24230,7 +24230,7 @@
 /obj/structure/closet/cabinet/anchored{
 	pixel_y = 10
 	},
-/obj/item/twohanded/spear/bonespear/aethergiest,
+/obj/item/twohanded/spear/bonespear/deathclaw,
 /turf/open/floor/plasteel/cult,
 /area/f13/building/tribal)
 "lDS" = (
@@ -25700,7 +25700,7 @@
 "moM" = (
 /obj/effect/decal/remains/human,
 /obj/item/clothing/head/f13/trilby,
-/obj/item/reagent_containers/food/snacks/meat/slab/aethergiest{
+/obj/item/reagent_containers/food/snacks/meat/slab/deathclaw{
 	name = "neckbeard meat"
 	},
 /turf/open/indestructible/ground/inside/mountain,
@@ -37133,7 +37133,7 @@
 /turf/open/floor/plasteel/f13/vault_floor/red/redchess,
 /area/f13/building)
 "rYa" = (
-/mob/living/simple_animal/hostile/aethergiest/mother,
+/mob/living/simple_animal/hostile/deathclaw/mother,
 /turf/open/floor/plasteel/f13/vault_floor/floor/floorsolid,
 /area/f13/building)
 "rYj" = (
@@ -46506,7 +46506,7 @@
 /area/f13/building/tribal/cave)
 "wBR" = (
 /obj/effect/decal/cleanable/dirt/dust,
-/mob/living/simple_animal/hostile/aethergiest/mother,
+/mob/living/simple_animal/hostile/deathclaw/mother,
 /turf/open/floor/plasteel/f13/vault_floor/floor/floorsolid,
 /area/f13/building)
 "wCc" = (

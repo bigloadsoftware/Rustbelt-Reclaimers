@@ -407,9 +407,9 @@ Unless you know what you're doing, only use the first three numbers. They're in 
 	sheet_type = /obj/item/stack/f13Cash/caps
 
 /datum/material/aethergiesthide
-	name = "aethergiest leather"
+	name = "deathclaw leather"
 	desc = "A glorious hunting trophy."
-	sheet_type = /obj/item/stack/sheet/animalhide/aethergiest
+	sheet_type = /obj/item/stack/sheet/animalhide/deathclaw
 
 /datum/material/geckohide
 	name = "gecko leather"

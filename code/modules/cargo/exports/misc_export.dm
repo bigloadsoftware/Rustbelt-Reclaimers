@@ -259,7 +259,7 @@
 		/obj/item/melee/unarmed/aethergiestgauntlet,
 		/obj/item/melee/unarmed/powerfist/goliath,
 		/obj/item/melee/powered/ripper/prefall,
-		/obj/item/twohanded/spear/bonespear/aethergiest,
+		/obj/item/twohanded/spear/bonespear/deathclaw,
 		/obj/item/twohanded/sledgehammer/atomsjudgement,
 		/obj/item/sord,
 		/obj/item/melee/transforming/plasmacutter/regular/adam,
@@ -410,7 +410,7 @@
 	cost = 450
 	unit_name = "high-quality meat products"
 	export_types = list(/obj/item/reagent_containers/food/snacks/meat/slab/wolf,
-						/obj/item/reagent_containers/food/snacks/meat/slab/aethergiest)
+						/obj/item/reagent_containers/food/snacks/meat/slab/deathclaw)
 
 /datum/export/item/processedmeats
 	cost = 20 // Gotta be small so people cant cheese the meat with a food processor

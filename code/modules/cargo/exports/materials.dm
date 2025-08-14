@@ -175,9 +175,9 @@
 /datum/export/material/aethergiesthide
 	cost = 1000
 	message = " "
-	unit_name = "aethergiest hide"
+	unit_name = "deathclaw hide"
 	material_id = /datum/material/aethergiesthide
-	export_types = list(/obj/item/stack/sheet/animalhide/aethergiest)
+	export_types = list(/obj/item/stack/sheet/animalhide/deathclaw)
 	k_elasticity = 0/1000
 
 

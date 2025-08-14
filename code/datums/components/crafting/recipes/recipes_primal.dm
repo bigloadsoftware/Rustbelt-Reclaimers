@@ -271,7 +271,7 @@
 	name = "Deathclaw Bow"
 	result = /obj/item/gun/ballistic/bow/claw
 	time = 80
-	reqs = list(/obj/item/stack/sheet/animalhide/aethergiest = 6,
+	reqs = list(/obj/item/stack/sheet/animalhide/deathclaw = 6,
 				/obj/item/stack/sheet/bone = 10,
 				/obj/item/stack/sheet/sinew = 5)
 	category = CAT_PRIMAL
@@ -483,7 +483,7 @@
 	time = 120 //arbitrary numbers yay
 	reqs = list(/obj/item/stack/sheet/mineral/wood = 6,
 				/obj/item/stack/sheet/metal = 8,
-				/obj/item/stack/sheet/leather = 8) //Nobody has ever or will ever make this because belt quivers would be superior if it required aethergiest kills
+				/obj/item/stack/sheet/leather = 8) //Nobody has ever or will ever make this because belt quivers would be superior if it required deathclaw kills
 	category = CAT_PRIMAL
 	tools = list(TOOL_WORKBENCH)
 	always_available = TRUE
@@ -522,7 +522,7 @@
 	time = 50
 	reqs = list(/obj/item/stack/sheet/leather = 2,
 				/obj/item/stack/sheet/sinew = 2,
-				/obj/item/stack/sheet/animalhide/aethergiest = 4)
+				/obj/item/stack/sheet/animalhide/deathclaw = 4)
 	category = CAT_PRIMAL
 	tools = list(TOOL_WORKBENCH)
 	always_available = FALSE
@@ -540,9 +540,9 @@
 
 /datum/crafting_recipe/tribalwar/aethergiestspear
 	name = "Deathclaw Spear"
-	result = /obj/item/twohanded/spear/bonespear/aethergiest
+	result = /obj/item/twohanded/spear/bonespear/deathclaw
 	time = 240
-	reqs = list(/obj/item/stack/sheet/animalhide/aethergiest = 6,
+	reqs = list(/obj/item/stack/sheet/animalhide/deathclaw = 6,
 				/obj/item/stack/sheet/sinew = 2,
 				/obj/item/stack/sheet/bone = 8,
 				/obj/item/stack/sheet/mineral/wood = 10)

@@ -1309,7 +1309,7 @@
 	},
 /area/f13/caves)
 "aDV" = (
-/obj/structure/nest/aethergiest,
+/obj/structure/nest/deathclaw,
 /turf/open/floor/f13/wood,
 /area/f13/building)
 "aDW" = (
@@ -12678,7 +12678,7 @@
 /turf/open/floor/f13,
 /area/f13/building)
 "frK" = (
-/obj/structure/nest/aethergiest,
+/obj/structure/nest/deathclaw,
 /turf/open/floor/plasteel/f13{
 	icon_state = "floorgrime"
 	},
@@ -48923,7 +48923,7 @@
 	},
 /area/f13/building)
 "tLY" = (
-/obj/structure/nest/aethergiest,
+/obj/structure/nest/deathclaw,
 /turf/open/floor/f13/wood,
 /area/f13/wasteland)
 "tMk" = (
@@ -57680,7 +57680,7 @@
 /turf/open/indestructible/ground/inside/mountain,
 /area/f13/building/tribal)
 "xqj" = (
-/obj/structure/nest/aethergiest,
+/obj/structure/nest/deathclaw,
 /turf/open/indestructible/ground/outside/road{
 	color = "#999999"
 	},
@@ -59293,9 +59293,9 @@
 /turf/open/floor/plasteel/f13/vault_floor/red/white,
 /area/f13/building/coyote/nash/mall/groundfloor)
 "xVD" = (
-/mob/living/simple_animal/hostile/aethergiest{
+/mob/living/simple_animal/hostile/deathclaw{
 	name = "Chester";
-	desc = "A strange aethergiest that seems to only try and chew on peoples hands.  Probably someones beloved pet.";
+	desc = "A strange deathclaw that seems to only try and chew on peoples hands.  Probably someones beloved pet.";
 	color = "#FF0000"
 	},
 /turf/open/indestructible/ground/outside/road{

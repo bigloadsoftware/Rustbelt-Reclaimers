@@ -63,10 +63,10 @@
 
 
 /datum/bounty_quota/aethergiest_steak
-	name = "Deliver some aethergiest steaks"
-	info = "Can accept any type of aethergiest steak."
+	name = "Deliver some deathclaw steaks"
+	info = "Can accept any type of deathclaw steak."
 	paths = list(
-		/obj/item/reagent_containers/food/snacks/meat/steak/aethergiest
+		/obj/item/reagent_containers/food/snacks/meat/steak/deathclaw
 	)
 	needed_amount = 1
 	auto_generate_info = TRUE

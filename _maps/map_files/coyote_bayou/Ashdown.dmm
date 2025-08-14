@@ -4836,7 +4836,7 @@
 /turf/open/floor/f13/wood,
 /area/f13/building/abandoned)
 "ckm" = (
-/mob/living/simple_animal/hostile/aethergiest{
+/mob/living/simple_animal/hostile/deathclaw{
 	color = "#338833";
 	faction = list("hostile");
 	name = "Definitely not just an ork"
@@ -9575,7 +9575,7 @@
 /obj/effect/decal/fakelattice,
 /obj/structure/disposalpipe/segment,
 /obj/structure/fence,
-/mob/living/simple_animal/hostile/aethergiest{
+/mob/living/simple_animal/hostile/deathclaw{
 	color = "#338833";
 	faction = list("hostile");
 	name = "Definitely not just an ork"
@@ -37036,7 +37036,7 @@
 /area/f13/building)
 "qir" = (
 /obj/effect/decal/fakelattice,
-/mob/living/simple_animal/hostile/aethergiest{
+/mob/living/simple_animal/hostile/deathclaw{
 	color = "#338833";
 	faction = list("hostile");
 	name = "Definitely not just an ork"
@@ -51150,7 +51150,7 @@
 /area/f13/wasteland)
 "wAj" = (
 /obj/effect/decal/cleanable/dirt,
-/mob/living/simple_animal/hostile/aethergiest{
+/mob/living/simple_animal/hostile/deathclaw{
 	color = "#338833";
 	faction = list("hostile","ghoul");
 	name = "Rad-Licker the Green as Shit"

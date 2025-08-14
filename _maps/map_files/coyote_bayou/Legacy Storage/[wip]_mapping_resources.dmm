@@ -19353,7 +19353,7 @@
 /turf/open/floor/f13/wood,
 /area/f13/building)
 "jNL" = (
-/obj/structure/nest/aethergiest,
+/obj/structure/nest/deathclaw,
 /turf/open/indestructible/ground/outside/desert,
 /area/f13/wasteland)
 "jNR" = (
@@ -37168,7 +37168,7 @@
 /turf/open/indestructible/ground/outside/desert,
 /area/f13/wasteland)
 "sKB" = (
-/obj/structure/nest/aethergiest/mother,
+/obj/structure/nest/deathclaw/mother,
 /turf/open/indestructible/ground/outside/desert,
 /area/f13/wasteland)
 "sKJ" = (

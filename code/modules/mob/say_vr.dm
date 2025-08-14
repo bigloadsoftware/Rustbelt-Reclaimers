@@ -184,7 +184,7 @@
 		msg += "<br>Misfortune just seems to stick to them like a fly to shit."
 
 	if (stat_strength>7)
-		msg += "<br>Simply built out of muscle, they could wrestle a aethergiest to death."
+		msg += "<br>Simply built out of muscle, they could wrestle a deathclaw to death."
 	if (stat_perception>7)
 		msg += "<br>A sharp and attentive gaze almost pierces through you, nothing gets past them it seems."
 	if (stat_endurance>7)

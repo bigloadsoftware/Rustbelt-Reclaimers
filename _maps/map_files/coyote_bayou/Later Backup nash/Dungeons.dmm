@@ -2052,7 +2052,7 @@
 "aSm" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/dirt,
-/mob/living/simple_animal/hostile/aethergiest,
+/mob/living/simple_animal/hostile/deathclaw,
 /turf/open/floor/plasteel/f13/vault_floor/floor/floorsolid,
 /area/f13/tunnel)
 "aSF" = (
@@ -10941,8 +10941,8 @@
 /turf/open/indestructible/ground/inside/dirt,
 /area/f13/building)
 "eVe" = (
-/mob/living/simple_animal/hostile/aethergiest/power_armor{
-	faction = list("aethergiest","enclave");
+/mob/living/simple_animal/hostile/deathclaw/power_armor{
+	faction = list("deathclaw","enclave");
 	mob_armor = list("melee"=35,"bullet"=35,"laser"=35,"energy"=10,"bomb"=0,"bio"=100,"rad"=100,"fire"=0,"acid"=0,"wound"=0,"damage_threshold"=15)
 	},
 /turf/open/indestructible/ground/outside/dirt,
@@ -11455,7 +11455,7 @@
 /obj/effect/decal/cleanable/dirt{
 	color = "#363636"
 	},
-/obj/item/reagent_containers/food/snacks/meat/steak/aethergiest,
+/obj/item/reagent_containers/food/snacks/meat/steak/deathclaw,
 /turf/open/indestructible/necropolis,
 /area/f13/building)
 "fkh" = (
@@ -33201,7 +33201,7 @@
 /turf/open/floor/plasteel/f13/vault_floor/white,
 /area/f13/enclave)
 "pff" = (
-/mob/living/simple_animal/hostile/aethergiest,
+/mob/living/simple_animal/hostile/deathclaw,
 /turf/open/indestructible/ground/inside/mountain,
 /area/f13/bunker)
 "pfl" = (
@@ -37341,7 +37341,7 @@
 /turf/open/floor/plating/tunnel,
 /area/f13/brotherhood/rnd)
 "qXp" = (
-/mob/living/simple_animal/hostile/aethergiest,
+/mob/living/simple_animal/hostile/deathclaw,
 /turf/open/indestructible/ground/inside/mountain,
 /area/f13/bunker/bighornbunker)
 "qXJ" = (
@@ -40344,7 +40344,7 @@
 /turf/open/floor/plating/tunnel,
 /area/f13/radiation)
 "suj" = (
-/mob/living/simple_animal/hostile/aethergiest/mother,
+/mob/living/simple_animal/hostile/deathclaw/mother,
 /turf/open/floor/plating/tunnel{
 	icon_state = "tunnelrusty"
 	},

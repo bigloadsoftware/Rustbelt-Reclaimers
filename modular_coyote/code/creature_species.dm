@@ -1403,11 +1403,11 @@
 //start deathclaws
 /datum/species/feral/deathclaw
 //start aethergiests
-/datum/species/feral/aethergiest
+/datum/species/feral/deathclaw
 	roundstart = FALSE //This is just the parent type, don't let players actually select it.
-	meat = /obj/item/reagent_containers/food/snacks/meat/slab/aethergiest
+	meat = /obj/item/reagent_containers/food/snacks/meat/slab/deathclaw
 	gib_types = list(/obj/effect/gibspawner/generic)
-	skinned_type = /obj/item/stack/sheet/animalhide/aethergiest
+	skinned_type = /obj/item/stack/sheet/animalhide/deathclaw
 	liked_food = MEAT | RAW
 	icon_dead_suffix = "_dead"
 	icon_rest_suffix = "_rest"
@@ -1415,75 +1415,75 @@
 	icon_width = 64
 	footstep_type = FOOTSTEP_MOB_HEAVY
 
-/datum/species/feral/aethergiest/original
+/datum/species/feral/deathclaw/original
 	name = "Feral Deathclaw"
-	id = "aethergiest"
+	id = "deathclaw"
 	roundstart = TRUE
 	icon_rest_suffix = ""
 	rotate_on_lying = TRUE
 	simple_icon = 'icons/mob/deathclaw.dmi'
 /mob/living/carbon/human/species/aethergiest_original
-	race = /datum/species/feral/aethergiest/original
+	race = /datum/species/feral/deathclaw/original
 
-/datum/species/feral/aethergiest/purple
+/datum/species/feral/deathclaw/purple
 	name = "Purple Cloaked Deathclaw"
 	id = "pur"
 	roundstart = TRUE
 /mob/living/carbon/human/species/aethergiest_purple
-	race = /datum/species/feral/aethergiest/purple
+	race = /datum/species/feral/deathclaw/purple
 
-/datum/species/feral/aethergiest/white
+/datum/species/feral/deathclaw/white
 	name = "White Cloaked Deathclaw"
 	id = "whi"
 	roundstart = TRUE
 /mob/living/carbon/human/species/aethergiest_whi
-	race = /datum/species/feral/aethergiest/white
+	race = /datum/species/feral/deathclaw/white
 
-/datum/species/feral/aethergiest/red
+/datum/species/feral/deathclaw/red
 	name = "Red Cloaked Deathclaw"
 	id = "red"
 	roundstart = TRUE
 /mob/living/carbon/human/species/aethergiest_red
-	race = /datum/species/feral/aethergiest/red
+	race = /datum/species/feral/deathclaw/red
 
-/datum/species/feral/aethergiest/grey
+/datum/species/feral/deathclaw/grey
 	name = "Grey Cloaked Deathclaw"
 	id = "gry"
 	roundstart = TRUE
 /mob/living/carbon/human/species/aethergiest_grey
-	race = /datum/species/feral/aethergiest/grey
+	race = /datum/species/feral/deathclaw/grey
 
-/datum/species/feral/aethergiest/black
+/datum/species/feral/deathclaw/black
 	name = "Black Cloaked Deathclaw"
 	id = "hub"
 	roundstart = TRUE
 /mob/living/carbon/human/species/aethergiest_black
-	race = /datum/species/feral/aethergiest/black
+	race = /datum/species/feral/deathclaw/black
 
-/datum/species/feral/aethergiest/brown
+/datum/species/feral/deathclaw/brown
 	name = "Brown Cloaked Deathclaw"
 	id = "bro"
 	roundstart = TRUE
 /mob/living/carbon/human/species/aethergiest_brown
-	race = /datum/species/feral/aethergiest/brown
+	race = /datum/species/feral/deathclaw/brown
 
-/datum/species/feral/aethergiest/maid
+/datum/species/feral/deathclaw/maid
 	name = "Maid Deathclaw"
 	id = "maidclaw"
 	roundstart = TRUE
 /mob/living/carbon/human/species/aethergiest_maid
-	race = /datum/species/feral/aethergiest/maid
+	race = /datum/species/feral/deathclaw/maid
 
-/datum/species/feral/aethergiest/queen
+/datum/species/feral/deathclaw/queen
 	name = "Queen Deathclaw"
 	id = "deathclaw_queen"
 	rotate_on_lying = TRUE
 	icon_rest_suffix = ""
 	roundstart = TRUE
 /mob/living/carbon/human/species/aethergiest_queen
-	race = /datum/species/feral/aethergiest/queen
+	race = /datum/species/feral/deathclaw/queen
 
-/datum/species/feral/aethergiest/geist
+/datum/species/feral/deathclaw/geist
 	name = "Cavern Geist"
 	id = "geist"
 	rotate_on_lying = FALSE
@@ -1492,9 +1492,9 @@
 	alt_prefixes = list("Cyber" = "cyber_")
 	roundstart = TRUE
 /mob/living/carbon/human/species/geist
-	race = /datum/species/feral/aethergiest/geist
+	race = /datum/species/feral/deathclaw/geist
 
-/datum/species/feral/aethergiest/broodmother
+/datum/species/feral/deathclaw/broodmother
 	name = "Brood Mother"
 	id = "broodmother"
 	rotate_on_lying = TRUE
@@ -1502,7 +1502,7 @@
 	icon_rest_suffix = "_rest"
 	roundstart = TRUE
 /mob/living/carbon/human/species/broodmother
-	race = /datum/species/feral/aethergiest/broodmother
+	race = /datum/species/feral/deathclaw/broodmother
 
 /datum/species/feral/femdigo
 	name = "Female Wendigo"

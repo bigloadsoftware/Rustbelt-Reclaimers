@@ -251,14 +251,14 @@ GLOBAL_LIST_EMPTY(player_made_nests)
 // 					/mob/living/simple_animal/hostile/renegade/syndicate/ranged/shotgun/space,
 // 					/mob/living/simple_animal/hostile/renegade/syndicate/ranged/shotgun/space/stormtrooper)
 
-/obj/structure/nest/aethergiest
-	name = "aethergiest nest"
+/obj/structure/nest/deathclaw
+	name = "deathclaw nest"
 	max_mobs = 1
-	mob_types = list(/mob/living/simple_animal/hostile/aethergiest = 1)
+	mob_types = list(/mob/living/simple_animal/hostile/deathclaw = 1)
 
-/obj/structure/nest/aethergiest/mother
-	name = "mother aethergiest nest"
-	mob_types = list(/mob/living/simple_animal/hostile/aethergiest/mother = 1)
+/obj/structure/nest/deathclaw/mother
+	name = "mother deathclaw nest"
+	mob_types = list(/mob/living/simple_animal/hostile/deathclaw/mother = 1)
 
 /obj/structure/nest/scorpion
 	name = "scorpion nest"

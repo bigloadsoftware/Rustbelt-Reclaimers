@@ -620,7 +620,7 @@
 /turf/open/indestructible/ground/outside/desert,
 /area/f13/tunnel)
 "avH" = (
-/mob/living/simple_animal/hostile/aethergiest/legendary,
+/mob/living/simple_animal/hostile/deathclaw/legendary,
 /turf/open/indestructible/ground/inside/subway{
 	name = "cave"
 	},
@@ -858,7 +858,7 @@
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust,
 /area/f13/brotherhood/operations)
 "aBP" = (
-/obj/structure/nest/aethergiest/mother{
+/obj/structure/nest/deathclaw/mother{
 	infinite = 1;
 	spawn_time = 400
 	},
@@ -1674,7 +1674,7 @@
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust,
 /area/f13/building)
 "aZU" = (
-/obj/structure/nest/aethergiest{
+/obj/structure/nest/deathclaw{
 	radius = 4
 	},
 /turf/open/indestructible/ground/inside/mountain,
@@ -3054,7 +3054,7 @@
 	},
 /area/f13/brotherhood/leisure)
 "bJc" = (
-/obj/structure/nest/aethergiest{
+/obj/structure/nest/deathclaw{
 	max_mobs = 2
 	},
 /turf/open/indestructible/ground/inside/subway{
@@ -6287,7 +6287,7 @@
 /turf/open/water,
 /area/f13/den)
 "dyz" = (
-/obj/structure/nest/aethergiest{
+/obj/structure/nest/deathclaw{
 	radius = 5
 	},
 /area/f13/bunker)
@@ -6562,7 +6562,7 @@
 /turf/open/indestructible/ground/inside/subway,
 /area/f13/tunnel)
 "dHh" = (
-/obj/structure/nest/aethergiest/mother,
+/obj/structure/nest/deathclaw/mother,
 /turf/open/indestructible/ground/inside/mountain,
 /area/f13/bunker)
 "dHw" = (
@@ -8969,7 +8969,7 @@
 /turf/open/floor/plasteel/f13/vault_floor/plating,
 /area/f13/brotherhood/mining)
 "ePT" = (
-/obj/structure/nest/aethergiest,
+/obj/structure/nest/deathclaw,
 /turf/open/floor/f13{
 	icon_state = "yellowdirtyfull"
 	},
@@ -9943,7 +9943,7 @@
 	},
 /area/f13/den)
 "fsU" = (
-/obj/structure/nest/aethergiest,
+/obj/structure/nest/deathclaw,
 /turf/open/floor/f13{
 	icon_state = "greenrustyfull"
 	},
@@ -11382,7 +11382,7 @@
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust,
 /area/f13/brotherhood/rnd)
 "gjC" = (
-/obj/structure/nest/aethergiest/mother{
+/obj/structure/nest/deathclaw/mother{
 	infinite = 1;
 	spawn_time = 400
 	},
@@ -13643,7 +13643,7 @@
 /turf/open/floor/plating/tunnel,
 /area/f13/bunker)
 "hDO" = (
-/mob/living/simple_animal/hostile/aethergiest,
+/mob/living/simple_animal/hostile/deathclaw,
 /turf/open/floor/f13{
 	icon_state = "reddirtyfull"
 	},
@@ -15188,7 +15188,7 @@
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust,
 /area/f13/bunker)
 "iAy" = (
-/obj/structure/nest/aethergiest{
+/obj/structure/nest/deathclaw{
 	radius = 5
 	},
 /turf/open/indestructible/ground/inside/mountain,
@@ -16355,7 +16355,7 @@
 /obj/structure/rack,
 /area/f13/building)
 "jpi" = (
-/mob/living/simple_animal/hostile/aethergiest/legendary,
+/mob/living/simple_animal/hostile/deathclaw/legendary,
 /turf/open/indestructible/ground/inside/mountain,
 /area/f13/caves)
 "jpr" = (
@@ -33814,7 +33814,7 @@
 	},
 /area/f13/brotherhood/offices2nd)
 "unm" = (
-/obj/structure/nest/aethergiest{
+/obj/structure/nest/deathclaw{
 	max_mobs = 2
 	},
 /turf/open/floor/f13{
@@ -34306,8 +34306,8 @@
 /obj/structure/chair/stool/retro/black,
 /area/f13/den)
 "uDu" = (
-/mob/living/simple_animal/hostile/aethergiest/legendary,
-/obj/structure/nest/aethergiest{
+/mob/living/simple_animal/hostile/deathclaw/legendary,
+/obj/structure/nest/deathclaw{
 	radius = 5
 	},
 /turf/open/indestructible/ground/inside/mountain,
@@ -39125,7 +39125,7 @@
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust,
 /area/f13/brotherhood/rnd)
 "xBs" = (
-/obj/structure/nest/aethergiest,
+/obj/structure/nest/deathclaw,
 /turf/open/indestructible/ground/inside/mountain,
 /area/f13/bunker)
 "xBw" = (

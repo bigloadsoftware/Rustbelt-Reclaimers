@@ -533,7 +533,7 @@
 		/obj/item/melee/unarmed/powerfist/goliath = 5,
 		/obj/item/melee/onehanded/dragonfire = 5, //edgy
 		/obj/item/melee/powered/ripper/prefall = 5,
-		/obj/item/twohanded/spear/bonespear/aethergiest = 5, //sure why not
+		/obj/item/twohanded/spear/bonespear/deathclaw = 5, //sure why not
 		/obj/item/melee/unarmed/aethergiestgauntlet = 5,
 		//obj/item/book/granter/martial/bass = 5,
 		/obj/item/melee/transforming/plasmacutter/regular/adam = 5,

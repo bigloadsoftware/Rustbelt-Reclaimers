@@ -16823,7 +16823,7 @@
 	},
 /area/f13/wasteland)
 "gSH" = (
-/mob/living/simple_animal/hostile/aethergiest/mother,
+/mob/living/simple_animal/hostile/deathclaw/mother,
 /turf/open/indestructible/ground/inside/mountain,
 /area/f13/caves)
 "gSS" = (
@@ -56506,7 +56506,7 @@
 /turf/open/water,
 /area/f13/caves)
 "yax" = (
-/obj/structure/nest/aethergiest,
+/obj/structure/nest/deathclaw,
 /turf/open/indestructible/ground/inside/mountain,
 /area/f13/caves)
 "yaA" = (

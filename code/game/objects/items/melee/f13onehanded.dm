@@ -911,7 +911,7 @@ y
 	backstab_multiplier = 1.40
 
 /obj/item/melee/unarmed/aethergiestgauntlet
-	name = "aethergiest gauntlet"
+	name = "deathclaw gauntlet"
 	desc = "The severed hand of a mighty Deathclaw, cured, hollowed out, and given a harness to turn it into the deadliest gauntlet the wastes have ever seen."
 	icon_state = "aethergiest_g"
 	inhand_icon_state = "aethergiest_g"

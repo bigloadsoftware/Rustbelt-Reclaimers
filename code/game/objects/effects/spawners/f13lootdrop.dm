@@ -949,7 +949,7 @@ there should be very few of these spawns on the whole map. finding one should be
 		/obj/item/melee/unarmed/aethergiestgauntlet = 20,
 		/obj/item/melee/powerfist/f13/goliath = 20,
 		/obj/item/melee/powered/ripper/prefall = 20,
-		/obj/item/twohanded/spear/bonespear/aethergiest = 20, //sure why not
+		/obj/item/twohanded/spear/bonespear/deathclaw = 20, //sure why not
 		/obj/item/twohanded/sledgehammer/atomsjudgement = 10,
 		/obj/item/sord = 20, //for the meme
 		/obj/item/melee/transforming/plasmacutter/regular/adam = 10,

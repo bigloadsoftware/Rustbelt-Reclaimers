@@ -46,7 +46,7 @@ Tribal Chief
 	neck =	/obj/item/clothing/neck/mantle/chief
 	id =	/obj/item/card/id/tribetattoo
 	suit =	/obj/item/clothing/suit/hooded/cloak/hhunter
-	suit_store =	/obj/item/twohanded/spear/bonespear/aethergiest
+	suit_store =	/obj/item/twohanded/spear/bonespear/deathclaw
 	backpack_contents = list(
 		/obj/item/restraints/legcuffs/bola = 1,
 		/obj/item/reagent_containers/pill/healingpowder = 2,
@@ -374,7 +374,7 @@ Guardian
 	gloves = /obj/item/clothing/gloves/f13/handwraps
 	shoes = /obj/item/clothing/shoes/sandal
 	suit = /obj/item/clothing/suit/armor/medium/tribal/tribe_heavy_armor
-	//suit_store = /obj/item/twohanded/spear/bonespear/aethergiest
+	//suit_store = /obj/item/twohanded/spear/bonespear/deathclaw
 	id = /obj/item/card/id/tribetattoo
 	backpack_contents = list(
 		/obj/item/pda = 1,

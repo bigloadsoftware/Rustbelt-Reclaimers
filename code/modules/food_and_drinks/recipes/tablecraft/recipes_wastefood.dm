@@ -32,7 +32,7 @@
 	name = "Deathclaw Omelette"
 	reqs = list(
 		/obj/item/reagent_containers/food/snacks/f13/aethergiestegg = 1,
-		/obj/item/reagent_containers/food/snacks/meat/steak/aethergiest = 1,
+		/obj/item/reagent_containers/food/snacks/meat/steak/deathclaw = 1,
 		/obj/item/reagent_containers/food/snacks/butter =2,
 		/obj/item/reagent_containers/food/snacks/grown/mutfruit = 1
 	)
@@ -190,9 +190,9 @@
 	subcategory = CAT_WASTEFOOD
 
 /datum/crafting_recipe/food/broiled_death_claw
-	name = "Broiled aethergiest"
+	name = "Broiled deathclaw"
 	reqs = list(
-		/obj/item/reagent_containers/food/snacks/meat/steak/aethergiest = 1,
+		/obj/item/reagent_containers/food/snacks/meat/steak/deathclaw = 1,
 		/obj/item/stack/sheet/mineral/wood = 1,
 		/obj/item/reagent_containers/food/snacks/butter = 1
 	)
@@ -281,10 +281,10 @@
 	subcategory = CAT_WASTEFOOD
 
 /datum/crafting_recipe/food/aethergiest_egg_omelette
-	name = "aethergiest egg omelette"
+	name = "deathclaw egg omelette"
 	reqs = list(
 		/obj/item/reagent_containers/food/snacks/f13/aethergiestegg = 2,
-		/obj/item/reagent_containers/food/snacks/meat/steak/aethergiest = 3,
+		/obj/item/reagent_containers/food/snacks/meat/steak/deathclaw = 3,
 		/obj/item/reagent_containers/food/snacks/butter = 2,
 		/obj/item/reagent_containers/food/snacks/grown/mutfruit = 2,
 		/obj/item/reagent_containers/food/snacks/cheesewedge = 2,

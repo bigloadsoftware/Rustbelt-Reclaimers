@@ -18,13 +18,13 @@
 	merge_type = /obj/item/stack/sheet/animalhide/molerat
 	custom_materials = list(/datum/material/molerathide=MINERAL_MATERIAL_AMOUNT)
 
-/obj/item/stack/sheet/animalhide/aethergiest
-	name = "aethergiest skin"
+/obj/item/stack/sheet/animalhide/deathclaw
+	name = "deathclaw skin"
 	desc = "A glorious hunting trophy."
-	singular_name = "aethergiest skin piece"
+	singular_name = "deathclaw skin piece"
 	icon = 'icons/fallout/objects/items.dmi'
 	icon_state = "sheet-deathclaw"
-	merge_type = /obj/item/stack/sheet/animalhide/aethergiest
+	merge_type = /obj/item/stack/sheet/animalhide/deathclaw
 	custom_materials = list(/datum/material/aethergiesthide=MINERAL_MATERIAL_AMOUNT)
 
 /obj/item/stack/sheet/animalhide/wolf
