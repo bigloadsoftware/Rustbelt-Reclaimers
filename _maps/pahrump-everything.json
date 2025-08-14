@@ -2,7 +2,9 @@
 	"map_name": "Texarkana",
 	"map_path": "map_files/rustbelt",
 	"map_file": [
-		"rustbelt.dmm"
+		"rustbelt.dmm",
+		"rustbelt-lower.dmm",
+		"rustbelt-upper.dmm"
 	],
 	"station_ruin_budget":0,
 	"space_ruin_levels":0,
@@ -22,11 +24,40 @@
 			"Down": -1,
 			"No Parallax": true,
 			"Linkage" : "Cross",
-			"Name": "Yuma",
+			"Name": "Rustbelt",
 			"Force X": 2,
 			"Force Y": 2,
 			"Force Z": 1
+		},
+
+		{
+			"Gravity": true,
+			"Baseturf": "/turf/open/indestructible/ground/inside/mountain",
+			"Station": 1,
+			"Up": 1,
+			"Down": -1,
+			"No Parallax": true,
+			"Linkage" : "Cross",
+			"Name": "Rustbelt - Lower",
+			"Force X": 2,
+			"Force Y": 2,
+			"Force Z": 0
+		},
+
+		{
+			"Gravity": true,
+			"Baseturf": "/turf/open/indestructible/ground/inside/mountain",
+			"Station": 1,
+			"Up": 1,
+			"Down": -1,
+			"No Parallax": true,
+			"Linkage" : "Cross",
+			"Name": "Rustbelt - Upper",
+			"Force X": 2,
+			"Force Y": 2,
+			"Force Z": 2
 		}
+
 
 	],
 	"minetype": "none"
