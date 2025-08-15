@@ -1974,7 +1974,7 @@
 /obj/effect/spawner/lootdrop/f13/rare,
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/dirt,
-/mob/living/simple_animal/hostile/pillbug/strongradroach{
+/mob/living/simple_animal/hostile/radroach/strongradroach{
 	color = "#2dff03"
 	},
 /turf/open/floor/f13/wood,
@@ -4536,7 +4536,7 @@
 /area/f13/building)
 "cnA" = (
 /obj/effect/spawner/lootdrop/grille_or_trash,
-/mob/living/simple_animal/hostile/pillbug/strongradroach,
+/mob/living/simple_animal/hostile/radroach/strongradroach,
 /turf/open/floor/f13/wood{
 	icon_state = "housebase"
 	},
@@ -7136,7 +7136,7 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/dirt,
-/mob/living/simple_animal/hostile/pillbug/strongradroach{
+/mob/living/simple_animal/hostile/radroach/strongradroach{
 	color = "#2dff03"
 	},
 /turf/open/floor/plasteel/floorgrime,
@@ -8815,7 +8815,7 @@
 /area/f13/wasteland)
 "eDs" = (
 /obj/effect/spawner/lootdrop/f13/common,
-/mob/living/simple_animal/hostile/pillbug/strongradroach,
+/mob/living/simple_animal/hostile/radroach/strongradroach,
 /turf/open/floor/f13/wood,
 /area/f13/wasteland)
 "eDU" = (
@@ -12342,7 +12342,7 @@
 "gpX" = (
 /obj/effect/spawner/lootdrop/f13/common,
 /obj/effect/spawner/lootdrop/f13/common,
-/mob/living/simple_animal/hostile/pillbug/strongradroach,
+/mob/living/simple_animal/hostile/radroach/strongradroach,
 /turf/open/floor/f13/wood{
 	icon_state = "housewood2-broken"
 	},
@@ -15458,7 +15458,7 @@
 	dir = 1
 	},
 /obj/structure/closet/fridge,
-/mob/living/simple_animal/hostile/pillbug,
+/mob/living/simple_animal/hostile/radroach,
 /turf/open/floor/f13{
 	icon_state = "floorrustysolid"
 	},
@@ -17693,7 +17693,7 @@
 /obj/effect/spawner/lootdrop/f13/common,
 /obj/effect/spawner/lootdrop/f13/common,
 /obj/effect/decal/cleanable/dirt,
-/mob/living/simple_animal/hostile/pillbug/strongradroach{
+/mob/living/simple_animal/hostile/radroach/strongradroach{
 	color = "#2dff03"
 	},
 /turf/open/floor/plasteel/floorgrime,
@@ -26134,7 +26134,7 @@
 /turf/open/indestructible/ground/outside/civ/woodalt,
 /area/f13/building)
 "nbB" = (
-/mob/living/simple_animal/hostile/pillbug/strongradroach,
+/mob/living/simple_animal/hostile/radroach/strongradroach,
 /turf/open/floor/f13/wood{
 	icon_state = "housewood2-broken"
 	},
@@ -29137,7 +29137,7 @@
 	pixel_y = 30
 	},
 /obj/effect/spawner/lootdrop/f13/common,
-/mob/living/simple_animal/hostile/pillbug/strongradroach,
+/mob/living/simple_animal/hostile/radroach/strongradroach,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plasteel/floorgrime,
 /area/f13/building)
@@ -30211,7 +30211,7 @@
 	},
 /area/f13/wasteland)
 "pfv" = (
-/mob/living/simple_animal/hostile/pillbug/strongradroach,
+/mob/living/simple_animal/hostile/radroach/strongradroach,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/f13/wood,
 /area/f13/wasteland)
@@ -31239,7 +31239,7 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/dirt,
-/mob/living/simple_animal/hostile/pillbug/strongradroach{
+/mob/living/simple_animal/hostile/radroach/strongradroach{
 	color = "#2dff03"
 	},
 /turf/open/floor/f13/wood,
@@ -38601,7 +38601,7 @@
 /area/f13/building)
 "tDj" = (
 /obj/effect/spawner/lootdrop/f13/common,
-/mob/living/simple_animal/hostile/pillbug/strongradroach,
+/mob/living/simple_animal/hostile/radroach/strongradroach,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plasteel/floorgrime,
 /area/f13/building)
@@ -41588,7 +41588,7 @@
 "ven" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/dirt,
-/mob/living/simple_animal/hostile/pillbug/strongradroach{
+/mob/living/simple_animal/hostile/radroach/strongradroach{
 	color = "#2dff03"
 	},
 /turf/open/floor/f13/wood,

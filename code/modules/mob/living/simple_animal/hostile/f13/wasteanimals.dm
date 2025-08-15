@@ -704,12 +704,12 @@
 
 /mob/living/simple_animal/hostile/stalker
 	bounty = 25
-	name = "greater hellhound"
-	desc = "A hellhound is a fierce, supernatural canine often associated with the underworld, known for its fiery eyes and ominous presence."
-	icon = 'modular_coyote/icons/mob/paramob.dmi'
-	icon_state = "hellhoundgreater"
-	icon_living = "hellhoundgreater"
-	icon_dead = "hellhound_dead"
+	name = "greater nightstalker"
+	desc = "A nightstalker is a fierce, supernatural canine often associated with the underworld, known for its fiery eyes and ominous presence."
+	icon = 'icons/fallout/mobs/animals/nightstalker.dmi'
+	icon_state = "nightstalker"
+	icon_living = "nightstalker"
+	icon_dead = "nightstalker-dead"
 	icon_gib = null
 	mob_biotypes = MOB_ORGANIC|MOB_BEAST
 	speak_chance = 0
@@ -792,12 +792,12 @@
 
 /mob/living/simple_animal/hostile/stalkeryoung
 	bounty = 50
-	name = "hellhound"
-	desc = "A hellhound is a fierce, supernatural canine often associated with the underworld, known for its fiery eyes and ominous presence."
+	name = "nightstalker"
+	desc = "A nightstalker is a fierce, supernatural canine often associated with the underworld, known for its fiery eyes and ominous presence."
 	icon = 'modular_coyote/icons/mob/paramob.dmi'
-	icon_state = "hellhound"
-	icon_living = "hellhound"
-	icon_dead = "hellhound_dead"
+	icon_state = "nightstalker"
+	icon_living = "nightstalker"
+	icon_dead = "nightstalker-dead"
 	mob_biotypes = MOB_ORGANIC|MOB_BEAST
 	speak_chance = 0
 	turns_per_move = 5
@@ -904,15 +904,15 @@
 	inhand_icon_state = "stalkerpelt"
 
 /obj/structure/stalkeregg
-	name = "hellhound egg"
-	desc = "A shiny egg coming from a hellhound. They lay eggs?"
+	name = "nightstalker egg"
+	desc = "A shiny egg coming from a nightstalker. They lay eggs?"
 	icon = 'icons/mob/wastemobsdrops.dmi'
 	icon_state = "stalker-egg"
 	density = 1
 	anchored = 0
 
 /obj/item/reagent_containers/food/snacks/meat/slab/nightstalker_meat
-	name = "hellhound meat"
+	name = "nightstalker meat"
 	desc = "Could taste like rich red meat or flavorful chicken, depending on where the cut comes from."
 	list_reagents = list(/datum/reagent/consumable/nutriment = 6, /datum/reagent/consumable/nutriment/vitamin = 2)
 	bitesize = 4 //Average animal
@@ -923,7 +923,7 @@
 	foodtype = RAW | MEAT
 
 /obj/item/reagent_containers/food/snacks/meat/steak/nightstalker_meat
-	name = "hellhound steak"
+	name = "nightstalker steak"
 	desc = "A surprisingly high quality steak that could come in a variety of textures and may taste of either good chicken or rich beef"
 
 /////////////

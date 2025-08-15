@@ -25,8 +25,8 @@
 	icon_living = "skull_wolf"
 	icon_dead = "werewolf_dead"
 
-/mob/living/simple_animal/advanced/werewolf/hellhound
-	name = "hellhound werewolf"
+/mob/living/simple_animal/advanced/werewolf/nightstalker
+	name = "nightstalker werewolf"
 	desc = "Howling at the moon."
 	icon = 'modular_splurt/icons/mob/werewolf.dmi'
 	icon_state = "hell_hound"

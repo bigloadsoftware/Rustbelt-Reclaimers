@@ -93,7 +93,7 @@
 #define QUEST_MINIMUM_MAX_COIN_DEPOSIT COINS_TO_CREDITS(100)
 
 /*
-Trash - 4cp (geckos, pillbugs, bloatflies, basic ghouls etc)
+Trash - 4cp (geckos, radroachs, bloatflies, basic ghouls etc)
 Low Tier - 6cp (reavers, glowing ones, eyebots, cazadors etc)
 Mid Tier - 10cp/1sp (ants, scorpions, average raiders, mr handys etc)
 High Tier - 15cp/1.5sp (spiders, renegades, boss raiders, protectrons etc )

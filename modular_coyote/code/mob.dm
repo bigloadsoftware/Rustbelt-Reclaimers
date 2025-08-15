@@ -960,21 +960,21 @@
 	icon_living = "rykka"
 	icon_dead = "rykka_dead"
 
-/mob/living/simple_animal/advanced/hellhound
+/mob/living/simple_animal/advanced/nightstalker
 	name = "hellound"
 	desc = "It's a fire doggo from hell."
 	icon = 'modular_coyote/icons/mob/paramob.dmi'
-	icon_state = "hellhound"
-	icon_living = "hellhound"
-	icon_dead = "hellhound_dead"
+	icon_state = "nightstalker"
+	icon_living = "nightstalker"
+	icon_dead = "nightstalker-dead"
 
-/mob/living/simple_animal/advanced/hellhound_greater
+/mob/living/simple_animal/advanced/nightstalker_greater
 	name = "greater hellound"
 	desc = "It's a fire doggo from hell."
 	icon = 'modular_coyote/icons/mob/paramob.dmi'
-	icon_state = "hellhoundgreater"
-	icon_living = "hellhoundgreater"
-	icon_dead = "hellhound_dead"
+	icon_state = "nightstalker"
+	icon_living = "nightstalker"
+	icon_dead = "nightstalker-dead"
 
 /mob/living/simple_animal/advanced/rabbit
 	name = "bunny"

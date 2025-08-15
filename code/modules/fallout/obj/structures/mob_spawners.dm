@@ -267,13 +267,13 @@ GLOBAL_LIST_EMPTY(player_made_nests)
 					/mob/living/simple_animal/hostile/radscorpion/black = 5)
 
 /obj/structure/nest/radroach
-	name = "mutant pillbug nest"
+	name = "mutant radroach nest"
 	max_mobs = 2
 	swarm_size = 2
-	mob_types = list(/mob/living/simple_animal/hostile/pillbug = 10,
-					/mob/living/simple_animal/hostile/pillbug/micro = 15,
-					/mob/living/simple_animal/hostile/pillbug/leader = 5,
-					/mob/living/simple_animal/hostile/pillbug/strongradroach = 10,
+	mob_types = list(/mob/living/simple_animal/hostile/radroach = 10,
+					/mob/living/simple_animal/hostile/radroach/micro = 15,
+					/mob/living/simple_animal/hostile/radroach/leader = 5,
+					/mob/living/simple_animal/hostile/radroach/strongradroach = 10,
 					/mob/living/simple_animal/hostile/bloatfly = 20
 					)
 
@@ -528,7 +528,7 @@ GLOBAL_LIST_EMPTY(player_made_nests)
 					/mob/living/simple_animal/hostile/supermutant/nightkin/elitemutant = 1)
 
 /obj/structure/nest/nightstalker
-	name = "hellhound nest"
+	name = "nightstalker nest"
 	max_mobs = 2
 	mob_types = list(/mob/living/simple_animal/hostile/stalker = 5,
 					/mob/living/simple_animal/hostile/stalkeryoung = 5)

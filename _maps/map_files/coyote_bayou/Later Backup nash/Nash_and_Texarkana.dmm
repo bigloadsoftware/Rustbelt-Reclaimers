@@ -6545,7 +6545,7 @@
 	},
 /area/f13/ruins)
 "azY" = (
-/mob/living/simple_animal/hostile/pillbug,
+/mob/living/simple_animal/hostile/radroach,
 /obj/effect/spawner/lootdrop/f13/uncommon,
 /turf/open/floor/f13{
 	icon_state = "whitegreenrustychess"
@@ -9911,7 +9911,7 @@
 /obj/machinery/shower{
 	dir = 4
 	},
-/mob/living/simple_animal/hostile/pillbug,
+/mob/living/simple_animal/hostile/radroach,
 /turf/open/floor/f13{
 	icon_state = "whitegreenrustychess"
 	},
@@ -11067,7 +11067,7 @@
 /obj/machinery/light/small/built{
 	dir = 4
 	},
-/mob/living/simple_animal/hostile/pillbug/strongradroach,
+/mob/living/simple_animal/hostile/radroach/strongradroach,
 /turf/open/floor/f13/wood,
 /area/f13/wasteland)
 "aQf" = (
@@ -19710,7 +19710,7 @@
 /area/f13/building)
 "bWS" = (
 /obj/effect/decal/cleanable/dirt/dust,
-/mob/living/simple_animal/hostile/pillbug/strongradroach,
+/mob/living/simple_animal/hostile/radroach/strongradroach,
 /turf/open/floor/f13/wood,
 /area/f13/building)
 "bWX" = (
@@ -26064,7 +26064,7 @@
 /area/f13/building/abandoned)
 "dyb" = (
 /obj/effect/decal/cleanable/dirt/dust,
-/mob/living/simple_animal/hostile/pillbug/strongradroach,
+/mob/living/simple_animal/hostile/radroach/strongradroach,
 /turf/open/floor/f13/wood{
 	icon_state = "housewood1-broken"
 	},
@@ -29219,7 +29219,7 @@
 /area/f13/ruins)
 "erw" = (
 /obj/effect/decal/cleanable/dirt/dust,
-/mob/living/simple_animal/hostile/pillbug/strongradroach,
+/mob/living/simple_animal/hostile/radroach/strongradroach,
 /turf/open/floor/f13/wood,
 /area/f13/wasteland)
 "erx" = (
@@ -30913,7 +30913,7 @@
 	},
 /area/f13/building/abandoned)
 "ePZ" = (
-/mob/living/simple_animal/hostile/pillbug/strongradroach,
+/mob/living/simple_animal/hostile/radroach/strongradroach,
 /turf/open/floor/f13/wood,
 /area/f13/wasteland)
 "eQf" = (
@@ -34860,7 +34860,7 @@
 	},
 /area/f13/wasteland/city/nash/downtown)
 "fTG" = (
-/mob/living/simple_animal/hostile/pillbug,
+/mob/living/simple_animal/hostile/radroach,
 /turf/open/floor/f13{
 	icon_state = "whitegreenrustychess"
 	},
@@ -55193,7 +55193,7 @@
 	pixel_x = 8;
 	id = "jointstoreshutters"
 	},
-/mob/living/simple_animal/hostile/pillbug/strongradroach,
+/mob/living/simple_animal/hostile/radroach/strongradroach,
 /turf/open/floor/f13/wood,
 /area/f13/wasteland)
 "lwG" = (
@@ -73519,7 +73519,7 @@
 /area/f13/wasteland)
 "qoi" = (
 /mob/living/simple_animal/cockroach,
-/mob/living/simple_animal/hostile/pillbug/strongradroach,
+/mob/living/simple_animal/hostile/radroach/strongradroach,
 /turf/open/floor/f13/wood,
 /area/f13/building)
 "qop" = (
@@ -76400,7 +76400,7 @@
 /area/f13/wasteland/city/nash/downtown)
 "rcQ" = (
 /obj/effect/decal/cleanable/dirt/dust,
-/mob/living/simple_animal/hostile/pillbug,
+/mob/living/simple_animal/hostile/radroach,
 /turf/open/floor/f13/wood,
 /area/f13/ruins)
 "rcS" = (
@@ -82404,7 +82404,7 @@
 	},
 /obj/effect/decal/cleanable/dirt/dust,
 /obj/effect/decal/cleanable/dirt/dust,
-/mob/living/simple_animal/hostile/pillbug,
+/mob/living/simple_animal/hostile/radroach,
 /turf/open/floor/f13{
 	icon_state = "whitegreenrustychess"
 	},
@@ -95871,7 +95871,7 @@
 	},
 /area/f13/wasteland/massfusion/entrance)
 "wxZ" = (
-/mob/living/simple_animal/hostile/pillbug,
+/mob/living/simple_animal/hostile/radroach,
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{
 	name = "metal plating"
 	},

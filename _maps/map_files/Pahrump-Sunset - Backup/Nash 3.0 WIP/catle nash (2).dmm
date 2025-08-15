@@ -6885,7 +6885,7 @@
 /turf/open/floor/f13/wood,
 /area/f13/ruins)
 "azY" = (
-/mob/living/simple_animal/hostile/pillbug,
+/mob/living/simple_animal/hostile/radroach,
 /obj/effect/spawner/lootdrop/f13/uncommon,
 /turf/open/floor/f13{
 	icon_state = "whitegreenrustychess"
@@ -10519,7 +10519,7 @@
 /obj/machinery/shower{
 	dir = 4
 	},
-/mob/living/simple_animal/hostile/pillbug,
+/mob/living/simple_animal/hostile/radroach,
 /turf/open/floor/f13{
 	icon_state = "whitegreenrustychess"
 	},
@@ -36080,7 +36080,7 @@
 	},
 /area/f13/wasteland/city/nash/downtown)
 "fTG" = (
-/mob/living/simple_animal/hostile/pillbug,
+/mob/living/simple_animal/hostile/radroach,
 /turf/open/floor/f13{
 	icon_state = "whitegreenrustychess"
 	},
@@ -60481,7 +60481,7 @@
 	},
 /area/f13/building/abandoned)
 "mzq" = (
-/mob/living/simple_animal/hostile/pillbug,
+/mob/living/simple_animal/hostile/radroach,
 /turf/open/floor/f13/wood,
 /area/f13/ruins)
 "mzs" = (
@@ -77317,7 +77317,7 @@
 /area/f13/building/coyote/nash/school/groundfloor)
 "rcQ" = (
 /obj/effect/decal/cleanable/dirt,
-/mob/living/simple_animal/hostile/pillbug,
+/mob/living/simple_animal/hostile/radroach,
 /turf/open/floor/f13/wood,
 /area/f13/ruins)
 "rcS" = (
@@ -83452,7 +83452,7 @@
 	},
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/dirt,
-/mob/living/simple_animal/hostile/pillbug,
+/mob/living/simple_animal/hostile/radroach,
 /turf/open/floor/f13{
 	icon_state = "whitegreenrustychess"
 	},
@@ -96984,7 +96984,7 @@
 	},
 /area/f13/building/coyote/nash/massfus/parkinglot)
 "wxZ" = (
-/mob/living/simple_animal/hostile/pillbug,
+/mob/living/simple_animal/hostile/radroach,
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{
 	name = "metal plating"
 	},

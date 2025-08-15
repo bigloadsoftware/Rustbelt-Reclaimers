@@ -8413,7 +8413,7 @@
 /turf/closed/wall/r_wall/rust,
 /area/f13/bunker)
 "eCq" = (
-/mob/living/simple_animal/hostile/pillbug,
+/mob/living/simple_animal/hostile/radroach,
 /turf/open/indestructible/ground/inside/mountain,
 /area/f13/caves)
 "eCr" = (
@@ -17852,7 +17852,7 @@
 /turf/open/floor/plasteel/f13/vault_floor/red,
 /area/f13/bunker)
 "klj" = (
-/mob/living/simple_animal/hostile/pillbug,
+/mob/living/simple_animal/hostile/radroach,
 /area/f13/tunnel)
 "klB" = (
 /obj/effect/decal/cleanable/dirt/dust,
@@ -31557,7 +31557,7 @@
 	},
 /area/f13/caves)
 "sNX" = (
-/mob/living/simple_animal/hostile/pillbug,
+/mob/living/simple_animal/hostile/radroach,
 /turf/open/indestructible/ground/inside/mountain,
 /area/f13/tunnel)
 "sOm" = (
@@ -32362,7 +32362,7 @@
 /area/f13/brotherhood/offices2nd)
 "tqB" = (
 /obj/effect/decal/cleanable/dirt/dust,
-/mob/living/simple_animal/hostile/pillbug,
+/mob/living/simple_animal/hostile/radroach,
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust,
 /area/f13/building)
 "tqE" = (
@@ -32757,7 +32757,7 @@
 /area/f13/tunnel)
 "tCB" = (
 /obj/structure/flora/grass/jungle/b,
-/mob/living/simple_animal/hostile/pillbug,
+/mob/living/simple_animal/hostile/radroach,
 /turf/open/indestructible/ground/inside/mountain,
 /area/f13/caves)
 "tCQ" = (

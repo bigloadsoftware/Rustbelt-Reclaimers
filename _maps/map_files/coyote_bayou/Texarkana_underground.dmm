@@ -605,7 +605,7 @@
 /turf/open/indestructible/ground/inside/subway,
 /area/f13/caves)
 "auF" = (
-/mob/living/simple_animal/hostile/pillbug,
+/mob/living/simple_animal/hostile/radroach,
 /turf/open/floor/f13/wood,
 /area/f13/building)
 "auG" = (
@@ -2130,7 +2130,7 @@
 /area/f13/tunnel)
 "bDa" = (
 /obj/item/storage/trash_stack,
-/mob/living/simple_animal/hostile/pillbug,
+/mob/living/simple_animal/hostile/radroach,
 /turf/open/floor/plasteel/f13/vault_floor/yellow,
 /area/f13/tunnel)
 "bDc" = (
@@ -2220,13 +2220,13 @@
 	pixel_x = 5;
 	pixel_y = 6
 	},
-/mob/living/simple_animal/hostile/pillbug,
+/mob/living/simple_animal/hostile/radroach,
 /turf/open/floor/plasteel/f13/vault_floor/dark/darksolid{
 	icon_state = "darkrustysolid"
 	},
 /area/f13/tunnel)
 "bEv" = (
-/mob/living/simple_animal/hostile/pillbug,
+/mob/living/simple_animal/hostile/radroach,
 /turf/open/indestructible/ground/inside/mountain,
 /area/f13/building/sewers)
 "bEJ" = (
@@ -2440,7 +2440,7 @@
 /turf/open/indestructible/ground/inside/subway,
 /area/f13/tunnel)
 "bHw" = (
-/mob/living/simple_animal/hostile/pillbug,
+/mob/living/simple_animal/hostile/radroach,
 /turf/open/floor/plasteel/f13/vault_floor/yellow,
 /area/f13/tunnel)
 "bHx" = (
@@ -3695,7 +3695,7 @@
 	},
 /area/f13/building/tribal)
 "bNH" = (
-/mob/living/simple_animal/hostile/pillbug,
+/mob/living/simple_animal/hostile/radroach,
 /turf/open/indestructible/ground/inside/mountain,
 /area/f13/tunnel)
 "bNI" = (
@@ -3727,7 +3727,7 @@
 /turf/open/water,
 /area/f13/caves)
 "bNO" = (
-/mob/living/simple_animal/hostile/pillbug,
+/mob/living/simple_animal/hostile/radroach,
 /turf/open/floor/f13/wood,
 /area/f13/caves)
 "bNQ" = (
@@ -4149,7 +4149,7 @@
 	},
 /area/f13/tunnel)
 "bPX" = (
-/mob/living/simple_animal/hostile/pillbug,
+/mob/living/simple_animal/hostile/radroach,
 /turf/open/indestructible/ground/inside/mountain,
 /area/f13/caves)
 "bPY" = (
@@ -4458,7 +4458,7 @@
 /turf/open/indestructible/ground/inside/subway,
 /area/f13/caves)
 "bRy" = (
-/mob/living/simple_animal/hostile/pillbug,
+/mob/living/simple_animal/hostile/radroach,
 /obj/structure/table,
 /turf/open/floor/plasteel/f13/vault_floor/blue/whitebluefull,
 /area/f13/building/museum)
@@ -7023,7 +7023,7 @@
 /obj/machinery/light{
 	dir = 8
 	},
-/mob/living/simple_animal/hostile/pillbug,
+/mob/living/simple_animal/hostile/radroach,
 /turf/open/floor/plasteel/f13/vault_floor/misc/cafeteria,
 /area/f13/building/museum)
 "dFm" = (
@@ -7577,7 +7577,7 @@
 /area/f13/building/tribal)
 "ebV" = (
 /obj/item/storage/box/lights/tubes,
-/mob/living/simple_animal/hostile/pillbug,
+/mob/living/simple_animal/hostile/radroach,
 /turf/open/floor/plasteel/f13/vault_floor/yellow/whiteyellowfull,
 /area/f13/building/museum)
 "ecc" = (
@@ -7591,7 +7591,7 @@
 /turf/open/floor/plasteel/f13/vault_floor/floor,
 /area/f13/caves)
 "edy" = (
-/mob/living/simple_animal/hostile/pillbug,
+/mob/living/simple_animal/hostile/radroach,
 /obj/effect/decal/cleanable/generic,
 /turf/open/floor/plasteel/f13/vault_floor/misc/cmo,
 /area/f13/building/museum)
@@ -7790,7 +7790,7 @@
 /turf/open/indestructible/ground/inside/subway,
 /area/f13/caves)
 "enJ" = (
-/mob/living/simple_animal/hostile/pillbug,
+/mob/living/simple_animal/hostile/radroach,
 /turf/open/floor/plating,
 /area/f13/building/museum)
 "enP" = (
@@ -9039,7 +9039,7 @@
 /obj/effect/decal/cleanable/blood/old{
 	icon_state = "gibbearcore"
 	},
-/mob/living/simple_animal/hostile/pillbug,
+/mob/living/simple_animal/hostile/radroach,
 /turf/open/floor/f13{
 	icon_state = "greenrustyfull"
 	},
@@ -12505,7 +12505,7 @@
 	},
 /area/f13/building)
 "ibk" = (
-/mob/living/simple_animal/hostile/pillbug,
+/mob/living/simple_animal/hostile/radroach,
 /turf/open/floor/plasteel/f13/vault_floor/misc/cmo,
 /area/f13/building/museum)
 "ibA" = (
@@ -13466,7 +13466,7 @@
 /turf/open/indestructible/ground/inside/mountain,
 /area/f13/caves)
 "iGV" = (
-/mob/living/simple_animal/hostile/pillbug,
+/mob/living/simple_animal/hostile/radroach,
 /turf/open/floor/plasteel/f13/vault_floor/yellow/whiteyellowfull,
 /area/f13/building/museum)
 "iHH" = (
@@ -14588,7 +14588,7 @@
 /turf/open/floor/circuit/telecomms/mainframe,
 /area/tcommsat/server)
 "jFA" = (
-/mob/living/simple_animal/hostile/pillbug,
+/mob/living/simple_animal/hostile/radroach,
 /turf/open/floor/plasteel/dark,
 /area/f13/building/museum)
 "jFL" = (
@@ -16120,7 +16120,7 @@
 /turf/open/floor/f13/wood,
 /area/f13/caves)
 "kTY" = (
-/mob/living/simple_animal/hostile/pillbug,
+/mob/living/simple_animal/hostile/radroach,
 /turf/open/water,
 /area/f13/building/sewers)
 "kUb" = (
@@ -17659,7 +17659,7 @@
 	},
 /area/f13/building/sewers)
 "lUZ" = (
-/mob/living/simple_animal/hostile/pillbug,
+/mob/living/simple_animal/hostile/radroach,
 /obj/machinery/light/broken{
 	dir = 8
 	},
@@ -20910,7 +20910,7 @@
 /turf/open/water,
 /area/f13/caves)
 "oxf" = (
-/mob/living/simple_animal/hostile/pillbug,
+/mob/living/simple_animal/hostile/radroach,
 /obj/effect/decal/cleanable/generic,
 /turf/open/floor/plasteel/cafeteria,
 /area/f13/building/museum)
@@ -21670,7 +21670,7 @@
 /obj/machinery/light/small{
 	dir = 1
 	},
-/mob/living/simple_animal/hostile/pillbug,
+/mob/living/simple_animal/hostile/radroach,
 /turf/open/floor/plasteel/f13/vault_floor/yellow,
 /area/f13/tunnel)
 "pag" = (
@@ -22115,7 +22115,7 @@
 	},
 /area/f13/caves)
 "prW" = (
-/mob/living/simple_animal/hostile/pillbug,
+/mob/living/simple_animal/hostile/radroach,
 /turf/open/floor/plasteel/f13/vault_floor/blue/white,
 /area/f13/building/museum)
 "psp" = (
@@ -23297,7 +23297,7 @@
 	},
 /area/f13/tunnel)
 "qjo" = (
-/mob/living/simple_animal/hostile/pillbug,
+/mob/living/simple_animal/hostile/radroach,
 /turf/open/floor/plasteel/f13/vault_floor/neutral/neutralchess,
 /area/f13/building/museum)
 "qjw" = (
@@ -26387,7 +26387,7 @@
 /turf/closed/indestructible/vaultdoor,
 /area/f13/caves)
 "svg" = (
-/mob/living/simple_animal/hostile/pillbug,
+/mob/living/simple_animal/hostile/radroach,
 /turf/open/floor/f13{
 	icon_state = "greenrustyfull"
 	},
@@ -27800,7 +27800,7 @@
 /turf/open/floor/plasteel/f13/vault_floor/blue/white,
 /area/f13/caves)
 "ttq" = (
-/mob/living/simple_animal/hostile/pillbug,
+/mob/living/simple_animal/hostile/radroach,
 /obj/machinery/conveyor/inverted,
 /turf/open/floor/plasteel/f13/vault_floor/floor,
 /area/f13/building/museum)
@@ -31755,7 +31755,7 @@
 /turf/open/floor/f13/wood,
 /area/f13/tunnel)
 "wwC" = (
-/mob/living/simple_animal/hostile/pillbug,
+/mob/living/simple_animal/hostile/radroach,
 /obj/structure/closet,
 /obj/item/clothing/shoes/jackboots,
 /obj/item/clothing/under/f13/vault,
@@ -32827,7 +32827,7 @@
 /turf/open/floor/plasteel/f13/vault_floor/yellow/whiteyellowfull,
 /area/f13/caves)
 "xqv" = (
-/mob/living/simple_animal/hostile/pillbug,
+/mob/living/simple_animal/hostile/radroach,
 /turf/open/floor/plasteel/f13/vault_floor/floor,
 /area/f13/building/museum)
 "xqA" = (

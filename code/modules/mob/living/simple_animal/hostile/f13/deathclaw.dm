@@ -5,7 +5,7 @@
 //Base Deathclaw
 /mob/living/simple_animal/hostile/deathclaw
 	name = "deathclaw"
-	desc = "A massive multidimensional predator.  Here to eat you and your alternate dimension self's dog. Fight or flee, but do it quick."
+	desc = "A massive multidimensional predator.  Here to eat you and your alternate dimension self's dog. Fight or flee, but do it quick."  //Ekizius fix this please
 	icon = 'icons/fallout/mobs/monsters/deathclaw.dmi'
 	icon_state = "deathclaw"
 	icon_living = "deathclaw"
@@ -154,7 +154,7 @@
 // Mother death claw
 /mob/living/simple_animal/hostile/deathclaw/mother
 	name = "mother deathclaw"
-	desc = "A massive, reptilian creature with powerful muscles, razor-sharp claws, and aggression to match. This one is an angry mother."
+	desc = "A massive, reptilian creature with powerful muscles, razor-sharp claws, and aggression to match. This one is an angry mother."  //Ekizius fix this please
 	gender = FEMALE
 	mob_armor = ARMOR_VALUE_DEATHCLAW_MOTHER
 	maxHealth = 400 // 500 is double 250, so 100 points less than double

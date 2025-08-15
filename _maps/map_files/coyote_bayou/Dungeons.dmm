@@ -2779,7 +2779,7 @@
 /turf/open/indestructible/ground/inside/dirt,
 /area/f13/brotherhood/leisure)
 "bli" = (
-/mob/living/simple_animal/hostile/pillbug,
+/mob/living/simple_animal/hostile/radroach,
 /turf/open/floor/f13/wood,
 /area/f13/vault)
 "blH" = (
@@ -21262,7 +21262,7 @@
 /turf/open/water,
 /area/f13/underground/cave/tunnelertemple)
 "jLh" = (
-/mob/living/simple_animal/hostile/pillbug,
+/mob/living/simple_animal/hostile/radroach,
 /turf/open/floor/plating/tunnel,
 /area/f13/bunker)
 "jLr" = (
@@ -23581,8 +23581,8 @@
 /area/f13/brotherhood/mining)
 "kMK" = (
 /obj/structure/spider/stickyweb,
-/mob/living/simple_animal/hostile/pillbug,
-/mob/living/simple_animal/hostile/pillbug,
+/mob/living/simple_animal/hostile/radroach,
+/mob/living/simple_animal/hostile/radroach,
 /obj/effect/spawner/lootdrop/f13/rare,
 /turf/open/floor/plasteel/barber{
 	icon_state = "plating"
@@ -25292,7 +25292,7 @@
 /area/f13/vault)
 "lAb" = (
 /obj/effect/decal/cleanable/dirt,
-/mob/living/simple_animal/hostile/pillbug,
+/mob/living/simple_animal/hostile/radroach,
 /turf/open/floor/plasteel/barber{
 	icon_state = "plating"
 	},
@@ -41279,7 +41279,7 @@
 /turf/open/floor/plasteel/f13/vault_floor/red/whiteredfull,
 /area/f13/brotherhood/reactor)
 "sUw" = (
-/mob/living/simple_animal/hostile/pillbug,
+/mob/living/simple_animal/hostile/radroach,
 /turf/open/floor/plasteel/barber{
 	icon_state = "plating"
 	},

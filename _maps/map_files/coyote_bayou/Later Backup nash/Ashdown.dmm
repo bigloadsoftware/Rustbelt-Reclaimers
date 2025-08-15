@@ -380,7 +380,7 @@
 /turf/open/indestructible/ground/outside/desert,
 /area/f13/wasteland)
 "ahE" = (
-/mob/living/simple_animal/hostile/pillbug,
+/mob/living/simple_animal/hostile/radroach,
 /turf/open/indestructible/ground/outside/road{
 	icon_state = "horizontalinnermain3"
 	},
@@ -1174,7 +1174,7 @@
 /obj/structure/spider/stickyweb,
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/dirt,
-/mob/living/simple_animal/hostile/pillbug,
+/mob/living/simple_animal/hostile/radroach,
 /turf/open/indestructible/ground/outside/sidewalk{
 	icon_state = "horizontaltopbordertop2"
 	},
@@ -2807,7 +2807,7 @@
 /turf/open/indestructible/ground/outside/dirt,
 /area/f13/wasteland)
 "boF" = (
-/mob/living/simple_animal/hostile/pillbug,
+/mob/living/simple_animal/hostile/radroach,
 /turf/open/indestructible/ground/inside/mountain,
 /area/f13/building/abandoned)
 "boM" = (
@@ -4135,7 +4135,7 @@
 /turf/open/indestructible/ground/outside/dirt,
 /area/f13/wasteland)
 "bTm" = (
-/mob/living/simple_animal/hostile/pillbug,
+/mob/living/simple_animal/hostile/radroach,
 /turf/open/indestructible/ground/outside/road{
 	dir = 8;
 	icon_state = "horizontalinnermain2left"
@@ -7462,7 +7462,7 @@
 /area/f13/wasteland)
 "dqL" = (
 /obj/effect/decal/cleanable/dirt,
-/mob/living/simple_animal/hostile/pillbug,
+/mob/living/simple_animal/hostile/radroach,
 /turf/open/indestructible/ground/outside/dirt,
 /area/f13/wasteland/city)
 "dqM" = (
@@ -10416,7 +10416,7 @@
 	light_color = "#d8b1b1"
 	},
 /obj/effect/decal/cleanable/dirt,
-/mob/living/simple_animal/hostile/pillbug,
+/mob/living/simple_animal/hostile/radroach,
 /turf/open/floor/f13/wood,
 /area/f13/building/abandoned)
 "eDz" = (
@@ -16560,7 +16560,7 @@
 /turf/open/indestructible/ground/outside/savannah,
 /area/f13/wasteland)
 "hnr" = (
-/mob/living/simple_animal/hostile/pillbug,
+/mob/living/simple_animal/hostile/radroach,
 /turf/open/indestructible/ground/outside/road{
 	icon_state = "horizontaltopborderbottom2"
 	},
@@ -16752,7 +16752,7 @@
 /area/f13/wasteland)
 "hsk" = (
 /obj/effect/decal/cleanable/dirt,
-/mob/living/simple_animal/hostile/pillbug,
+/mob/living/simple_animal/hostile/radroach,
 /turf/open/indestructible/ground/inside/mountain,
 /area/f13/building/abandoned)
 "hsv" = (
@@ -18923,7 +18923,7 @@
 /area/f13/wasteland)
 "isi" = (
 /obj/effect/decal/cleanable/dirt,
-/mob/living/simple_animal/hostile/pillbug,
+/mob/living/simple_animal/hostile/radroach,
 /turf/open/floor/f13/wood,
 /area/f13/building/abandoned)
 "isk" = (
@@ -20687,7 +20687,7 @@
 	},
 /area/f13/building)
 "jfi" = (
-/mob/living/simple_animal/hostile/pillbug,
+/mob/living/simple_animal/hostile/radroach,
 /turf/open/indestructible/ground/outside/road{
 	icon_state = "horizontalinnermain1"
 	},
@@ -23793,7 +23793,7 @@
 	},
 /area/f13/building)
 "kvB" = (
-/mob/living/simple_animal/hostile/pillbug,
+/mob/living/simple_animal/hostile/radroach,
 /turf/open/floor/f13{
 	icon_state = "floorrusty"
 	},

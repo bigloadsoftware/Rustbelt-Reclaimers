@@ -17769,7 +17769,7 @@
 	},
 /area/f13/caves)
 "hyc" = (
-/mob/living/simple_animal/hostile/pillbug,
+/mob/living/simple_animal/hostile/radroach,
 /turf/open/floor/f13{
 	icon_state = "floorrusty"
 	},
@@ -22948,7 +22948,7 @@
 /turf/closed/wall/mineral/titanium,
 /area/f13/building/hospital/clinic/nash)
 "jvH" = (
-/mob/living/simple_animal/hostile/pillbug,
+/mob/living/simple_animal/hostile/radroach,
 /turf/open/floor/f13/wood,
 /area/f13/building)
 "jvK" = (
@@ -28765,7 +28765,7 @@
 /obj/machinery/light/small/broken{
 	dir = 1
 	},
-/mob/living/simple_animal/hostile/pillbug,
+/mob/living/simple_animal/hostile/radroach,
 /turf/open/floor/f13{
 	icon_state = "whitegreenrustychess"
 	},
@@ -44413,7 +44413,7 @@
 	},
 /area/f13/wasteland)
 "sap" = (
-/mob/living/simple_animal/hostile/pillbug,
+/mob/living/simple_animal/hostile/radroach,
 /turf/open/floor/plasteel/f13{
 	icon_state = "whitebluerustychess"
 	},
@@ -49438,7 +49438,7 @@
 	},
 /area/f13/building)
 "tWV" = (
-/mob/living/simple_animal/hostile/pillbug,
+/mob/living/simple_animal/hostile/radroach,
 /turf/open/floor/f13{
 	icon_state = "floorrustysolid"
 	},

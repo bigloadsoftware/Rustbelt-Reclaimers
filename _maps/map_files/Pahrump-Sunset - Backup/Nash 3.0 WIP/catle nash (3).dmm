@@ -7066,7 +7066,7 @@
 	dir = 1
 	},
 /obj/structure/closet/fridge,
-/mob/living/simple_animal/hostile/pillbug,
+/mob/living/simple_animal/hostile/radroach,
 /turf/open/floor/f13{
 	icon_state = "floorrustysolid"
 	},

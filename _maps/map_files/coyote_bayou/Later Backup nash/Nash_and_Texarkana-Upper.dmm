@@ -3170,7 +3170,7 @@
 /area/f13/caves)
 "cnA" = (
 /obj/effect/spawner/lootdrop/grille_or_trash,
-/mob/living/simple_animal/hostile/pillbug/strongradroach,
+/mob/living/simple_animal/hostile/radroach/strongradroach,
 /turf/open/floor/f13/wood{
 	icon_state = "housebase"
 	},
@@ -6390,7 +6390,7 @@
 /area/f13/wasteland)
 "eDs" = (
 /obj/effect/spawner/lootdrop/f13/common,
-/mob/living/simple_animal/hostile/pillbug/strongradroach,
+/mob/living/simple_animal/hostile/radroach/strongradroach,
 /turf/open/floor/f13/wood,
 /area/f13/wasteland)
 "eDU" = (
@@ -8939,7 +8939,7 @@
 "gpX" = (
 /obj/effect/spawner/lootdrop/f13/common,
 /obj/effect/spawner/lootdrop/f13/common,
-/mob/living/simple_animal/hostile/pillbug/strongradroach,
+/mob/living/simple_animal/hostile/radroach/strongradroach,
 /turf/open/floor/f13/wood{
 	icon_state = "housewood2-broken"
 	},
@@ -11100,7 +11100,7 @@
 	dir = 1
 	},
 /obj/structure/closet/fridge,
-/mob/living/simple_animal/hostile/pillbug,
+/mob/living/simple_animal/hostile/radroach,
 /turf/open/floor/f13{
 	icon_state = "floorrustysolid"
 	},
@@ -19453,7 +19453,7 @@
 /turf/closed/wall/f13/ruins,
 /area/f13/wasteland)
 "nbB" = (
-/mob/living/simple_animal/hostile/pillbug/strongradroach,
+/mob/living/simple_animal/hostile/radroach/strongradroach,
 /turf/open/floor/f13/wood{
 	icon_state = "housewood2-broken"
 	},
@@ -21706,7 +21706,7 @@
 	pixel_y = 30
 	},
 /obj/effect/spawner/lootdrop/f13/common,
-/mob/living/simple_animal/hostile/pillbug/strongradroach,
+/mob/living/simple_animal/hostile/radroach/strongradroach,
 /obj/effect/decal/cleanable/dirt/dust,
 /turf/open/floor/plasteel/floorgrime,
 /area/f13/building)
@@ -22505,7 +22505,7 @@
 /turf/open/indestructible/ground/outside/roof,
 /area/f13/building)
 "pfv" = (
-/mob/living/simple_animal/hostile/pillbug/strongradroach,
+/mob/living/simple_animal/hostile/radroach/strongradroach,
 /obj/effect/decal/cleanable/dirt/dust,
 /turf/open/floor/f13/wood,
 /area/f13/wasteland)
@@ -28755,7 +28755,7 @@
 /area/f13/building)
 "tDj" = (
 /obj/effect/spawner/lootdrop/f13/common,
-/mob/living/simple_animal/hostile/pillbug/strongradroach,
+/mob/living/simple_animal/hostile/radroach/strongradroach,
 /obj/effect/decal/cleanable/dirt/dust,
 /turf/open/floor/plasteel/floorgrime,
 /area/f13/building)

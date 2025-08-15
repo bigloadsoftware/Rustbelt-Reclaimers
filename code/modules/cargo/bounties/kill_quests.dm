@@ -268,25 +268,25 @@
 
 /////////////////////////////////////////////
 /////////////////////////////////////////////
-// Roachy pillbugs
-/datum/bounty/kill/roachypillbugs
-	name = "Slay some Roachy Pillbugs"
-	description = "Roachy Pillbugs are everywhere! I'll pay you to kill some of them."
-	flavor_focus = /mob/living/simple_animal/hostile/pillbug
+// Roachy radroachs
+/datum/bounty/kill/roachyradroachs
+	name = "Slay some Roachy Radroachs"
+	description = "Roachy Radroachs are everywhere! I'll pay you to kill some of them."
+	flavor_focus = /mob/living/simple_animal/hostile/radroach
 	weight = 1
 	init_wanteds = list(
-		/datum/bounty_quota/roachypillbug/easy,
-		/datum/bounty_quota/roachypillbug/medium,
-		/datum/bounty_quota/roachypillbug/hard,
-		/datum/bounty_quota/roachypillbug/cocknballtorture,
+		/datum/bounty_quota/roachyradroach/easy,
+		/datum/bounty_quota/roachyradroach/medium,
+		/datum/bounty_quota/roachyradroach/hard,
+		/datum/bounty_quota/roachyradroach/cocknballtorture,
 	)
 	difficulty = QUEST_DIFFICULTY_EASY | QUEST_DIFFICULTY_MED | QUEST_DIFFICULTY_HARD | QUEST_DIFFICULTY_CBT
 
 ///// ROACHYPILLBUG QUOTAS /////
-/datum/bounty_quota/roachypillbug
-	name = "Kill some Roachy Pillbugs"
+/datum/bounty_quota/roachyradroach
+	name = "Kill some Roachy Radroachs"
 	paths = list(
-		/mob/living/simple_animal/hostile/pillbug,
+		/mob/living/simple_animal/hostile/radroach,
 	)
 	needed_amount = 15
 	paths_get_subtypes = TRUE
@@ -297,19 +297,19 @@
 	hard_multiplier = 3
 	CBT_multiplier = 5
 
-/datum/bounty_quota/roachypillbug/easy
+/datum/bounty_quota/roachyradroach/easy
 	needed_amount = 15
 	difficulty = QUEST_DIFFICULTY_EASY
 
-/datum/bounty_quota/roachypillbug/medium
+/datum/bounty_quota/roachyradroach/medium
 	needed_amount = 25
 	difficulty = QUEST_DIFFICULTY_MED
 
-/datum/bounty_quota/roachypillbug/hard
+/datum/bounty_quota/roachyradroach/hard
 	needed_amount = 40
 	difficulty = QUEST_DIFFICULTY_HARD
 
-/datum/bounty_quota/roachypillbug/cocknballtorture
+/datum/bounty_quota/roachyradroach/cocknballtorture
 	needed_amount = 200
 	difficulty = QUEST_DIFFICULTY_CBT
 
