@@ -257,3 +257,19 @@
 
 /obj/structure/stairs/rockpile/brickpile/west
 	dir = WEST
+
+/obj/structure/stairs/ramp
+	name = "stairs"
+	icon_state = "ramp"
+
+/obj/structure/stairs/ramp/north
+	dir = NORTH
+
+/obj/structure/stairs/ramp/south
+	dir = SOUTH
+
+/obj/structure/stairs/ramp/east
+	dir = EAST
+
+/obj/structure/stairs/ramp/west
+	dir = WEST
