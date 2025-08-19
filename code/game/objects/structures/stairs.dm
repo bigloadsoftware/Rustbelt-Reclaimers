@@ -261,6 +261,7 @@
 /obj/structure/stairs/ramp
 	name = "stairs"
 	icon_state = "ramp"
+	icon_state_override = "ramp"
 
 /obj/structure/stairs/ramp/north
 	dir = NORTH

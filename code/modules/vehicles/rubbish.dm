@@ -78,7 +78,7 @@
 	icon = 'icons/fallout/objects/structures/rubish.dmi'
 	icon_state = "debris1"
 	bound_width = 64
-	bound_height = 64
+	bound_height = 32
 	anchored = 1
 	density = 1
 	layer = ABOVE_MOB_LAYER
@@ -91,7 +91,7 @@
 	icon = 'icons/fallout/objects/structures/rubish.dmi'
 	icon_state = "debris2"
 	bound_width = 64
-	bound_height = 64
+	bound_height = 32
 	anchored = 1
 	density = 1
 	layer = ABOVE_MOB_LAYER
@@ -104,7 +104,7 @@
 	icon = 'icons/fallout/objects/structures/rubish.dmi'
 	icon_state = "debris3"
 	bound_width = 64
-	bound_height = 64
+	bound_height = 32
 	anchored = 1
 	density = 1
 	layer = ABOVE_MOB_LAYER
@@ -117,7 +117,7 @@
 	icon = 'icons/fallout/objects/structures/rubish.dmi'
 	icon_state = "debris4"
 	bound_width = 64
-	bound_height = 64
+	bound_height = 32
 	anchored = 1
 	density = 1
 	layer = ABOVE_MOB_LAYER

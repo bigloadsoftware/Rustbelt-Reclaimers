@@ -1,37 +1,38 @@
 "a" = (/turf/open/indestructible/ground/inside/mountain,/area/f13/tunnel)
 "b" = (/obj/item/stack/sheet/mineral/gold,/obj/machinery/light/small/broken,/turf/open/floor/f13{icon_state = "floorrusty"},/area/f13/building)
 "c" = (/obj/structure/railing/corner{dir = 8; color = "#A47449"; pixel_x = 0; pixel_y = -2},/obj/machinery/light/small/broken{dir = 1},/turf/open/floor/wood_common{icon_state = "common-broken3"},/area/f13/building)
-"f" = (/obj/structure/nest/protectron,/turf/open/floor/wood_fancy,/area/f13/building)
+"f" = (/mob/living/simple_animal/hostile/handy/protectron,/turf/open/floor/wood_fancy,/area/f13/building)
 "g" = (/turf/closed/wall/mineral/brick,/area/f13/building)
 "h" = (/turf/closed/wall/r_wall/f13vaultrusted,/area/f13/building)
 "i" = (/obj/effect/decal/cleanable/blood,/turf/open/floor/wood_fancy{icon_state = "fancy-broken6"},/area/f13/building)
 "j" = (/turf/open/floor/wood_fancy{icon_state = "fancy-broken2"},/area/f13/building)
-"k" = (/obj/structure/nest/protectron,/turf/open/floor/wood_fancy{icon_state = "fancy-broken2"},/area/f13/building)
+"k" = (/mob/living/simple_animal/hostile/handy/protectron,/turf/open/floor/wood_fancy{icon_state = "fancy-broken2"},/area/f13/building)
 "l" = (/obj/machinery/light/small{color = "#ff9696"; light_color = "#ff9696"},/turf/open/floor/wood_fancy{icon_state = "fancy-broken3"},/area/f13/building)
 "m" = (/turf/open/floor/wood_fancy{icon_state = "fancy-broken1"},/area/f13/building)
 "n" = (/turf/open/floor/wood_fancy,/area/f13/building)
 "o" = (/turf/open/floor/wood_fancy{icon_state = "fancy-broken4"},/area/f13/building)
-"p" = (/obj/structure/rack/shelf_metal,/obj/item/stack/spacecash/random,/obj/effect/spawner/lootdrop/f13/uncommon,/obj/item/clothing/gloves/ring/diamond,/obj/item/clothing/neck/cursednecklace{name = "red pendant"},/turf/open/floor/f13{icon_state = "floorrusty"},/area/f13/building)
+"p" = (/obj/structure/rack/shelf_metal,/obj/effect/spawner/lootdrop/f13/uncommon,/obj/item/clothing/gloves/ring/diamond,/obj/item/clothing/neck/cursednecklace{name = "red pendant"},/obj/item/stack/spacecash/c200,/turf/open/floor/f13{icon_state = "floorrusty"},/area/f13/building)
 "r" = (/obj/structure/stairs/west{color = "#A47449"},/obj/structure/railing{color = "#A47449"; layer = 4; pixel_y = -2},/turf/open/floor/wood_fancy,/area/f13/building)
-"s" = (/obj/item/stack/sheet/mineral/wood,/turf/open/floor/wood_fancy,/area/f13/building)
+"s" = (/obj/item/stack/sheet/mineral/wood,/obj/effect/mob_spawn/human/skeleton,/turf/open/floor/wood_fancy,/area/f13/building)
 "t" = (/obj/effect/fake_stairs/north{color = "#A47449"},/obj/structure/railing{dir = 8; color = "#A47449"},/turf/open/floor/wood_fancy,/area/f13/building)
 "u" = (/obj/effect/decal/cleanable/blood,/turf/open/floor/wood_fancy{icon_state = "fancy-broken1"},/area/f13/building)
 "v" = (/obj/structure/rack/shelf_wood,/obj/effect/spawner/lootdrop/f13/common,/obj/effect/spawner/lootdrop/f13/common,/obj/item/stack/spacecash/c10,/obj/item/stack/spacecash/c1,/turf/open/floor/wood_fancy{icon_state = "fancy-broken4"},/area/f13/building)
-"w" = (/obj/structure/safe,/obj/item/stack/spacecash/random,/obj/effect/spawner/lootdrop/f13/rare_money,/obj/effect/spawner/lootdrop/f13/rare,/obj/effect/spawner/lootdrop/f13/rare,/obj/effect/spawner/lootdrop/f13/uncommon,/turf/open/floor/f13{icon_state = "floorrusty"},/area/f13/building)
+"w" = (/obj/structure/safe,/obj/effect/spawner/lootdrop/f13/rare_money,/obj/item/stack/spacecash/c1000,/obj/effect/spawner/lootdrop/f13/rare_money,/turf/open/floor/f13{icon_state = "floorrusty"},/area/f13/building)
 "y" = (/obj/item/paper/crumpled/bloody{info = "don't... you... dare..."; pixel_x = -4; pixel_y = 16},/obj/effect/decal/cleanable/blood,/turf/open/floor/f13{icon_state = "floorrusty"},/area/f13/building)
-"F" = (/obj/structure/rack/shelf_metal,/obj/item/stack/spacecash/random,/obj/effect/spawner/lootdrop/f13/uncommon,/obj/item/clothing/gloves/ring/silver,/turf/open/floor/f13{icon_state = "floorrusty"},/area/f13/building)
-"H" = (/obj/structure/rack/shelf_metal,/obj/item/stack/spacecash/random,/obj/effect/spawner/lootdrop/f13/uncommon,/obj/item/storage/bag/money/vault,/obj/item/clothing/accessory/necklace,/turf/open/floor/f13{icon_state = "floorrusty"},/area/f13/building)
-"I" = (/obj/structure/rack/shelf_metal,/obj/item/stack/spacecash/random,/obj/effect/spawner/lootdrop/f13/uncommon,/obj/item/stack/sheet/mineral/gold,/obj/item/candle,/turf/open/floor/f13{icon_state = "floorrusty"},/area/f13/building)
-"K" = (/obj/structure/rack/shelf_metal,/obj/item/stack/spacecash/random,/obj/effect/spawner/lootdrop/f13/uncommon,/obj/item/clothing/accessory/pearl_necklace,/turf/open/floor/f13{icon_state = "floorrusty"},/area/f13/building)
-"L" = (/obj/structure/door_assembly/door_assembly_vault,/obj/structure/barricade/wooden/planks/pregame,/turf/open/floor/f13{icon_state = "floorrusty"},/area/f13/building)
+"B" = (/obj/item/stack/spacecash/c10,/turf/open/floor/f13{icon_state = "floorrusty"},/area/f13/building)
+"F" = (/obj/structure/rack/shelf_metal,/obj/effect/spawner/lootdrop/f13/uncommon,/obj/item/clothing/gloves/ring/silver,/obj/item/stack/spacecash/c50,/turf/open/floor/f13{icon_state = "floorrusty"},/area/f13/building)
+"H" = (/obj/structure/rack/shelf_metal,/obj/effect/spawner/lootdrop/f13/uncommon,/obj/item/storage/bag/money/vault,/obj/item/clothing/accessory/necklace,/obj/item/stack/spacecash/c500,/turf/open/floor/f13{icon_state = "floorrusty"},/area/f13/building)
+"I" = (/obj/structure/rack/shelf_metal,/obj/effect/spawner/lootdrop/f13/uncommon,/obj/item/stack/sheet/mineral/gold,/obj/item/candle,/obj/item/stack/spacecash/c500,/turf/open/floor/f13{icon_state = "floorrusty"},/area/f13/building)
+"K" = (/obj/structure/rack/shelf_metal,/obj/effect/spawner/lootdrop/f13/uncommon,/obj/item/clothing/accessory/pearl_necklace,/obj/item/stack/spacecash/c50,/turf/open/floor/f13{icon_state = "floorrusty"},/area/f13/building)
+"L" = (/obj/structure/barricade/wooden/planks/pregame,/obj/structure/obstacle/jammed_door,/turf/open/floor/f13{icon_state = "floorrusty"},/area/f13/building)
 "M" = (/turf/closed/indestructible/rock,/area/f13/tunnel)
-"N" = (/obj/structure/rack/shelf_metal,/obj/item/stack/spacecash/random,/obj/effect/spawner/lootdrop/f13/uncommon,/obj/item/storage/bag/money/c5000,/obj/item/clothing/neck/necklace/dope,/turf/open/floor/f13{icon_state = "floorrusty"},/area/f13/building)
+"N" = (/obj/structure/rack/shelf_metal,/obj/effect/spawner/lootdrop/f13/uncommon,/obj/item/storage/bag/money/c5000,/obj/item/clothing/neck/necklace/dope,/obj/item/stack/spacecash/c200,/turf/open/floor/f13{icon_state = "floorrusty"},/area/f13/building)
 "O" = (/turf/open/floor/wood_fancy{icon_state = "fancy-broken3"},/area/f13/building)
 "Q" = (/obj/structure/rack/shelf_wood,/obj/effect/spawner/lootdrop/f13/common,/obj/effect/spawner/lootdrop/f13/common,/obj/item/stack/spacecash/c1,/obj/item/stack/spacecash/c1,/obj/item/stack/spacecash/c1,/turf/open/floor/wood_fancy{icon_state = "fancy-broken5"},/area/f13/building)
-"R" = (/obj/structure/safe,/obj/item/stack/spacecash/random,/obj/effect/spawner/lootdrop/f13/rare_money,/obj/effect/spawner/lootdrop/f13/rare,/obj/effect/spawner/lootdrop/f13/rare,/obj/effect/spawner/lootdrop/f13/uncommon,/obj/structure/cursed_money{name = "money bag"},/turf/open/floor/f13{icon_state = "floorrusty"},/area/f13/building)
-"S" = (/turf/open/floor/wood_fancy{icon_state = "fancy-broken5"},/area/f13/building)
+"R" = (/obj/structure/safe,/obj/effect/spawner/lootdrop/f13/rare_money,/obj/structure/cursed_money{name = "money bag"},/obj/item/stack/spacecash/c1000,/obj/effect/spawner/lootdrop/f13/rare_money,/turf/open/floor/f13{icon_state = "floorrusty"},/area/f13/building)
+"S" = (/obj/item/surgicaldrill,/turf/open/floor/wood_fancy{icon_state = "fancy-broken5"},/area/f13/building)
 "T" = (/obj/item/statuebust,/obj/machinery/light/small/broken,/turf/open/floor/f13{icon_state = "floorrusty"},/area/f13/building)
-"X" = (/turf/open/floor/f13{icon_state = "floorrusty"},/area/f13/building)
+"X" = (/obj/item/stack/spacecash/c100,/turf/open/floor/f13{icon_state = "floorrusty"},/area/f13/building)
 "Y" = (/obj/machinery/light/small/broken,/obj/effect/decal/cleanable/blood,/turf/open/floor/wood_fancy{icon_state = "fancy-broken4"},/area/f13/building)
 "Z" = (/turf/open/floor/wood_fancy{icon_state = "fancy-broken6"},/area/f13/building)
 
@@ -221,8 +222,8 @@ Maaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 MaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaM
 MaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaahhhhhhhgggaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaM
 MaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaahIwRwphrcgaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaM
-MaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaahNXyXKhgtgaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaM
-MaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaahFTXbHhQigaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaM
+MaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaahNByXKhgtgaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaM
+MaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaahFTBbHhQigaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaM
 MaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaahhhLhhhvjgaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaM
 MaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaagfusSjnOngaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaM
 MaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaagkolZnYnmgaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaM

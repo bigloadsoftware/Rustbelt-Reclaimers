@@ -582,7 +582,6 @@ GLOBAL_LIST_INIT(junk_type_weighted, list(
 	icon = 'icons/fallout/turfs/sidewalk.dmi'
 	footstep = FOOTSTEP_ROAD
 	barefootstep = FOOTSTEP_HARD_BAREFOOT
-	greeble = "junklist"
 //	step_sounds = list("human" = "erikafootsteps")
 
 /turf/open/indestructible/ground/outside/sidewalk_s
