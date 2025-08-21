@@ -30,17 +30,33 @@
 				/obj/item/clothing/under/redeveninggown,
 				/obj/item/clothing/under/janimaid,
 				/obj/effect/spawner/bundle/f13/badass,
-				/obj/effect/spawner/bundle/f13/puffer,
+				///obj/effect/spawner/bundle/f13/puffer,
 				/obj/effect/spawner/bundle/f13/that,
 				/obj/effect/spawner/bundle/f13/benny,
 				/obj/effect/spawner/bundle/f13/burgundysuit,
-				/obj/effect/spawner/bundle/f13/scratch,
-				/obj/effect/spawner/bundle/f13/hoodie,
-				/obj/item/clothing/under/pants/camo,
+				///obj/effect/spawner/bundle/f13/scratch,
+				///obj/effect/spawner/bundle/f13/hoodie,
+				///obj/item/clothing/under/pants/camo,
 				/obj/effect/spawner/bundle/f13/bartender_purple,
-				/obj/effect/spawner/bundle/f13/plaidskirt/bluered,
+				///obj/effect/spawner/bundle/f13/plaidskirt/bluered,
 				/obj/effect/spawner/bundle/f13/navysuit,
 				/obj/effect/spawner/bundle/f13/femsuit,
+				/obj/item/clothing/under/f13/brahmin,
+				/obj/item/clothing/under/f13/caravaneer,
+				/obj/item/clothing/under/f13/caravan,
+				/obj/item/clothing/under/f13/gentlesuit,
+				/obj/item/clothing/under/f13/greendress,
+				/obj/item/clothing/under/f13/helenduds,
+				/obj/item/clothing/under/f13/mechanic,
+				/obj/item/clothing/under/f13/merca,
+				/obj/item/clothing/under/f13/mercc,
+				/obj/item/clothing/under/f13/rag,
+				/obj/item/clothing/under/f13/worn,
+				/obj/item/clothing/under/f13/spring,
+				/obj/item/clothing/under/f13/settler,
+				/obj/item/clothing/under/f13/merchant,
+
+
 	)
 
 /obj/effect/spawner/bundle/f13/worker
@@ -119,7 +135,9 @@
 	name = "blue and red plaid skirts"
 	items = list(
 				/obj/item/clothing/under/plaid_skirt/blue,
-				/obj/item/clothing/under/plaid_skirt
+				/obj/item/clothing/under/plaid_skirt,
+				/obj/item/clothing/under/plaid_skirt/green,
+				/obj/item/clothing/under/plaid_skirt/purple
 				)
 
 /obj/effect/spawner/bundle/f13/navysuit
@@ -2217,13 +2235,40 @@ there should be very few of these spawns on the whole map. finding one should be
 	fan_out_items = TRUE
 	lootcount = 4
 
-/obj/effect/spawner/lootdrop/f13/seedspawner/Initialize(mapload) // This will spawn gatfruit sometimes.
+/obj/effect/spawner/lootdrop/f13/seedspawner/Initialize(mapload)
+	loot = list(
+					/obj/item/seeds/poppy/broc,
+					/obj/item/seeds/xander,
+					/obj/item/seeds/mutfruit,
+					/obj/item/seeds/feracactus,
+					/obj/item/seeds/buffalogourd,
+					/obj/item/seeds/horsenettle,
+					/obj/item/seeds/mesquite,
+					/obj/item/seeds/pinyon,
+					/obj/item/seeds/pricklypear,
+					/obj/item/seeds/datura,
+					/obj/item/seeds/punga,
+					/obj/item/seeds/coyotetobacco,
+					/obj/item/seeds/yucca,
+					/obj/item/seeds/tato,
+					/obj/item/seeds/fungus,
+					/obj/item/seeds/agave,
+					/obj/item/seeds/fever_blossom
+					)
+	. = ..()
+
+/obj/effect/spawner/lootdrop/f13/rareseedspawner
+	name = "rare seed spawner"
+	lootdoubles = TRUE
+	fan_out_items = TRUE
+	lootcount = 1
+
+/obj/effect/spawner/lootdrop/f13/rareseedspawner/Initialize(mapload)
 	loot = list(/obj/item/seeds/ambrosia,
 					/obj/item/seeds/apple,
 					/obj/item/seeds/banana,
 					/obj/item/seeds/cotton,
 					/obj/item/seeds/berry,
-					/obj/item/seeds/poppy/broc,
 					/obj/item/seeds/cabbage,
 					/obj/item/seeds/carrot,
 					/obj/item/seeds/carrot/parsnip,
@@ -2240,6 +2285,7 @@ there should be very few of these spawns on the whole map. finding one should be
 					/obj/item/seeds/lime,
 					/obj/item/seeds/onion,
 					/obj/item/seeds/orange,
+					/obj/item/seeds/tobacco,
 					/obj/item/seeds/rainbow_bunch,
 					/obj/item/seeds/pineapple,
 					/obj/item/seeds/potato,
@@ -2250,14 +2296,11 @@ there should be very few of these spawns on the whole map. finding one should be
 					/obj/item/seeds/sugarcane,
 					/obj/item/seeds/sunflower,
 					/obj/item/seeds/tea,
-					/obj/item/seeds/tobacco,
 					/obj/item/seeds/tomato,
 					/obj/item/seeds/tower,
 					/obj/item/seeds/watermelon,
 					/obj/item/seeds/wheat,
 					/obj/item/seeds/whitebeet,
-					/obj/item/seeds/xander,
-					/obj/item/seeds/mutfruit,
 					/obj/item/seeds/amanita,
 					/obj/item/seeds/glowshroom,
 					/obj/item/seeds/liberty,

@@ -476,7 +476,6 @@
 	name = "common melee"
 	loot = list(
 		/obj/item/melee/onehanded/machete = 10,
-		/obj/item/melee/onehanded/machete/gladius = 1,
 		/obj/item/melee/onehanded/machete/forgedmachete = 10,
 		/obj/item/throwing_star/spear = 10,
 		/obj/item/melee/onehanded/knife/throwing = 10,
@@ -491,9 +490,6 @@
 		/obj/item/twohanded/fireaxe = 4,
 		/obj/item/twohanded/baseball = 4,
 		/obj/item/twohanded/chainsaw = 4,
-		/obj/item/melee/transforming/plasmacutter/regular/celestia = 1,
-		/obj/item/melee/transforming/plasmacutter/regular/eve = 1,
-		/obj/item/melee/transforming/plasmacutter/regular = 1,
 		/obj/item/shovel/trench = 1,
 		/obj/item/twohanded/baseball/spiked = 1,
 		/obj/item/melee/unarmed/sappers = 1,
@@ -504,15 +500,12 @@
 	name = "uncommon melee"
 	loot = list(
 		/obj/item/twohanded/sledgehammer/simple = 10,
-		/obj/item/melee/transforming/plasmacutter/sword/cx/broken = 10,
-		/obj/item/melee/onehanded/machete/spatha = 10,
 		/obj/item/melee/unarmed/tigerclaw = 10,
 		/obj/item/melee/unarmed/lacerator = 10,
 		/obj/item/melee/unarmed/maceglove = 10,
 		/obj/item/melee/unarmed/punchdagger = 10,
 		/obj/item/twohanded/baseball/louisville = 10,
 		/obj/item/melee/onehanded/knife/trench = 10,
-		/obj/item/melee/transforming/plasmacutter/sword/cx = 4,
 	)
 
 /obj/effect/spawner/lootdrop/f13/rare_melee
@@ -526,7 +519,6 @@
 		/obj/item/twohanded/sledgehammer/supersledge = 10,
 		/obj/item/twohanded/sledgehammer/rockethammer = 10,
 		/obj/item/twohanded/thermic_lance = 10,
-		// /obj/item/melee/transforming/plasmacutter/sword = 5, // Commenting it out until its sprite is fixed.
 
 		//uniques
 		/obj/item/melee/powerfist/f13/satfist = 5,
@@ -535,10 +527,7 @@
 		/obj/item/melee/powered/ripper/prefall = 5,
 		/obj/item/twohanded/spear/bonespear/deathclaw = 5, //sure why not
 		/obj/item/melee/unarmed/aethergiestgauntlet = 5,
-		//obj/item/book/granter/martial/bass = 5,
-		/obj/item/melee/transforming/plasmacutter/regular/adam = 5,
 		/obj/item/twohanded/sledgehammer/atomsjudgement = 5,
-		/obj/item/dualsaber/hypereutactic = 5,
 	)
 
 

@@ -75,4 +75,4 @@
 /obj/structure/billboard/rusttown
 	name = "Rusttown"
 	desc =  "An old ruined sign, with a spraypainted \"Rusttown\" on it."
-	icon_state = "klamat" // needs sprited
+	icon_state = "rusttown"
