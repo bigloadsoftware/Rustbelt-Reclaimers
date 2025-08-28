@@ -25,7 +25,7 @@
 "I" = (/obj/structure/rack/shelf_metal,/obj/effect/spawner/lootdrop/f13/uncommon,/obj/item/stack/sheet/mineral/gold,/obj/item/candle,/obj/item/stack/spacecash/c500,/turf/open/floor/f13{icon_state = "floorrusty"},/area/f13/building)
 "K" = (/obj/structure/rack/shelf_metal,/obj/effect/spawner/lootdrop/f13/uncommon,/obj/item/clothing/accessory/pearl_necklace,/obj/item/stack/spacecash/c50,/turf/open/floor/f13{icon_state = "floorrusty"},/area/f13/building)
 "L" = (/obj/structure/barricade/wooden/planks/pregame,/obj/structure/obstacle/jammed_door,/turf/open/floor/f13{icon_state = "floorrusty"},/area/f13/building)
-"M" = (/turf/closed/indestructible/rock,/area/f13/tunnel)
+"M" = (/turf/closed/indestructible/rock{pixel_x = -4; pixel_y = -4},/area/f13/tunnel)
 "N" = (/obj/structure/rack/shelf_metal,/obj/effect/spawner/lootdrop/f13/uncommon,/obj/item/storage/bag/money/c5000,/obj/item/clothing/neck/necklace/dope,/obj/item/stack/spacecash/c200,/turf/open/floor/f13{icon_state = "floorrusty"},/area/f13/building)
 "O" = (/turf/open/floor/wood_fancy{icon_state = "fancy-broken3"},/area/f13/building)
 "Q" = (/obj/structure/rack/shelf_wood,/obj/effect/spawner/lootdrop/f13/common,/obj/effect/spawner/lootdrop/f13/common,/obj/item/stack/spacecash/c1,/obj/item/stack/spacecash/c1,/obj/item/stack/spacecash/c1,/turf/open/floor/wood_fancy{icon_state = "fancy-broken5"},/area/f13/building)

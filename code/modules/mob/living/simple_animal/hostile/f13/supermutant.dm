@@ -173,7 +173,6 @@
 	icon_state = "hulk_ranged_s"
 	icon_living = "hulk_ranged_s"
 	icon_dead = "hulk_ranged_s"
-	color = "#3344BE"
 	ranged = 1
 	mob_armor = ARMOR_VALUE_SUPERMUTANT_RANGER
 	maxHealth = 130 
@@ -382,7 +381,6 @@
 /mob/living/simple_animal/hostile/supermutant/meleemutant/rain
 	name = "super mutant rain cultist"
 	desc = "A super mutant covered in blue markings that has been indoctrinated into the Cult Of Rain. This one wields a sledgehammer blessed by the rain gods."
-	color = "#6B87C0"
 	speak_chance = 10
 	//speak = list("The rain cleanses!", "Sacrifices for the rain gods!", "The thunder guides my fury!", "I am become the storm, destroyer of all heretics!", "The priests will be pleased with my sacrifices!")
 	maxHealth = 360
@@ -395,7 +393,6 @@
 /mob/living/simple_animal/hostile/supermutant/rangedmutant/rain
 	name = "super mutant rain cultist"
 	desc = "A super mutant covered in blue markings that has been indoctrinated into the Cult Of Rain. This one wields a hunting rifle blessed by the rain gods."
-	color = "#6B87C0"
 	speak_chance = 10
 	//speak = list("The rain cleanses!", "Sacrifices for the rain gods!", "The thunder guides my fury!", "I am become the storm, destroyer of all heretics!", "The priests will be pleased with my sacrifices!")
 	maxHealth = 360
@@ -408,7 +405,6 @@
 /mob/living/simple_animal/hostile/supermutant/nightkin/rain
 	name = "nightkin berserker rain priest"
 	desc = "A nightkin that spreads the word of the Cult Of Rain. They are covered in dark blue markings, indicating that they have been blessed by the rain god Odile."
-	color = "#6666FF"
 	speak_chance = 10
 	//speak = list("The rain speaks through me!", "Witness the gifts of rain!", "The great flood will come upon us! Do not fear it!", "My life for the rain gods!", "The rain gods can always use more sacrifices!")
 	maxHealth = 360
@@ -497,7 +493,6 @@
 /mob/living/simple_animal/hostile/supermutant/nightkin/rangedmutant/rain
 	name = "nightkin guardian rain priest"
 	desc = "A nightkin that spreads the word of the Cult Of Rain. They are covered in dark blue markings, indicating that they have been blessed by the rain lord Ignacio."
-	color = "#6666FF"
 	speak_chance = 10
 	//speak = list("The rain speaks through me!", "Witness the gifts of rain!", "The great flood will come upon us! Do not fear it!", "My life for the rain gods!", "The rain gods can always use more sacrifices!")
 	maxHealth = 380
@@ -539,7 +534,6 @@
 /mob/living/simple_animal/hostile/supermutant/nightkin/elitemutant/rain
 	name = "nightkin rain lord"
 	desc = "A nightkin that writes the word of the Cult Of Rain. They are covered in dark blue markings and are adorned in pieces of bone armor, indicating that they are blessed by the rain lord Hyacinth."
-	color = "#6666FF"
 	speak_chance = 10
 	//speak = list("The great flood will come, I will make sure of it!", "Rain lord Odile, I call upon you for wrath!", "Rain creator Hyacinth, I call upon you for a tranquil mind!", "Rain lord Ignacio, I call upon you for protection!", "The storm rages within!")
 	maxHealth = 440
